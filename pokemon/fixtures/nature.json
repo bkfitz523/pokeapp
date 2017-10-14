@@ -1,0 +1,252 @@
+[{
+		"model": "pokemon.nature",
+		"pk": 0,
+		"fields": {
+			"name": "Hardy",
+			"increased_stat": "",
+			"decreased_stat": "",
+			"favorite_flavor": "",
+			"disliked_flavor": ""
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 1,
+		"fields": {
+			"name": "Lonely",
+			"increased_stat": "Attack",
+			"decreased_stat": "Defense",
+			"favorite_flavor": "Spicy",
+			"disliked_flavor": "Sour"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 2,
+		"fields": {
+			"name": "Brave",
+			"increased_stat": "Attack",
+			"decreased_stat": "Speed",
+			"favorite_flavor": "Spicy",
+			"disliked_flavor": "Sweet"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 3,
+		"fields": {
+			"name": "Adamant",
+			"increased_stat": "Attack",
+			"decreased_stat": "Sp. Attack",
+			"favorite_flavor": "Spicy",
+			"disliked_flavor": "Dry"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 4,
+		"fields": {
+			"name": "Naughty",
+			"increased_stat": "Attack",
+			"decreased_stat": "Sp. Defense",
+			"favorite_flavor": "Spicy",
+			"disliked_flavor": "Bitter"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 5,
+		"fields": {
+			"name": "Bold",
+			"increased_stat": "Defense",
+			"decreased_stat": "Attack",
+			"favorite_flavor": "Sour",
+			"disliked_flavor": "Spicy"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 6,
+		"fields": {
+			"name": "Docile",
+			"increased_stat": "",
+			"decreased_stat": "",
+			"favorite_flavor": "",
+			"disliked_flavor": ""
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 7,
+		"fields": {
+			"name": "Relaxed",
+			"increased_stat": "Defense",
+			"decreased_stat": "Speed",
+			"favorite_flavor": "Sour",
+			"disliked_flavor": "Sweet"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 8,
+		"fields": {
+			"name": "Impish",
+			"increased_stat": "Defense",
+			"decreased_stat": "Sp. Attack",
+			"favorite_flavor": "Sour",
+			"disliked_flavor": "Dry"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 9,
+		"fields": {
+			"name": "Lax",
+			"increased_stat": "Defense",
+			"decreased_stat": "Sp. Defense",
+			"favorite_flavor": "Sour",
+			"disliked_flavor": "Bitter"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 10,
+		"fields": {
+			"name": "Timid",
+			"increased_stat": "Speed",
+			"decreased_stat": "Attack",
+			"favorite_flavor": "Sweet",
+			"disliked_flavor": "Spicy"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 11,
+		"fields": {
+			"name": "Hasty",
+			"increased_stat": "Speed",
+			"decreased_stat": "Defense",
+			"favorite_flavor": "Sweet",
+			"disliked_flavor": "Sour"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 12,
+		"fields": {
+			"name": "Serious",
+			"increased_stat": "",
+			"decreased_stat": "",
+			"favorite_flavor": "",
+			"disliked_flavor": ""
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 13,
+		"fields": {
+			"name": "Jolly",
+			"increased_stat": "Speed",
+			"decreased_stat": "Sp. Attack",
+			"favorite_flavor": "Sweet",
+			"disliked_flavor": "Dry"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 14,
+		"fields": {
+			"name": "Naive",
+			"increased_stat": "Speed",
+			"decreased_stat": "Sp. Defense",
+			"favorite_flavor": "Sweet",
+			"disliked_flavor": "Bitter"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 15,
+		"fields": {
+			"name": "Modest",
+			"increased_stat": "Sp. Attack",
+			"decreased_stat": "Attack",
+			"favorite_flavor": "Dry",
+			"disliked_flavor": "Spicy"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 16,
+		"fields": {
+			"name": "Mild",
+			"increased_stat": "Sp. Attack",
+			"decreased_stat": "Defense",
+			"favorite_flavor": "Dry",
+			"disliked_flavor": "Sour"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 17,
+		"fields": {
+			"name": "Quiet",
+			"increased_stat": "Sp. Attack",
+			"decreased_stat": "Speed",
+			"favorite_flavor": "Dry",
+			"disliked_flavor": "Sweet"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 18,
+		"fields": {
+			"name": "Bashful",
+			"increased_stat": "",
+			"decreased_stat": "",
+			"favorite_flavor": "",
+			"disliked_flavor": ""
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 19,
+		"fields": {
+			"name": "Rash",
+			"increased_stat": "Sp. Attack",
+			"decreased_stat": "Sp. Defense",
+			"favorite_flavor": "Dry",
+			"disliked_flavor": "Bitter"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 20,
+		"fields": {
+			"name": "Calm",
+			"increased_stat": "Sp. Defense",
+			"decreased_stat": "Attack",
+			"favorite_flavor": "Bitter",
+			"disliked_flavor": "Spicy"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 21,
+		"fields": {
+			"name": "Gentle",
+			"increased_stat": "Sp. Defense",
+			"decreased_stat": "Defense",
+			"favorite_flavor": "Bitter",
+			"disliked_flavor": "Sour"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 22,
+		"fields": {
+			"name": "Sassy",
+			"increased_stat": "Sp. Defense",
+			"decreased_stat": "Speed",
+			"favorite_flavor": "Bitter",
+			"disliked_flavor": "Sweet"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 23,
+		"fields": {
+			"name": "Careful",
+			"increased_stat": "Sp. Defense",
+			"decreased_stat": "Sp. Attack",
+			"favorite_flavor": "Bitter",
+			"disliked_flavor": "Dry"
+		}
+	}, {
+		"model": "pokemon.nature",
+		"pk": 24,
+		"fields": {
+			"name": "Quirky",
+			"increased_stat": "",
+			"decreased_stat": "",
+			"favorite_flavor": "",
+			"disliked_flavor": ""
+		}
+	}
+]
