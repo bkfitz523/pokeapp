@@ -1,0 +1,8075 @@
+[
+  {
+    "model": "pokemon.move",
+    "pk": 1,
+    "fields": {
+      "name": "Pound",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "40",
+      "power_points": 35,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 2,
+    "fields": {
+      "name": "Karate Chop",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "50",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 3,
+    "fields": {
+      "name": "Double Slap",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "15",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 4,
+    "fields": {
+      "name": "Comet Punch",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "18",
+      "power_points": 15,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 5,
+    "fields": {
+      "name": "Mega Punch",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 20,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 6,
+    "fields": {
+      "name": "Pay Day",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "40",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 7,
+    "fields": {
+      "name": "Fire Punch",
+      "type": 10,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "75",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 8,
+    "fields": {
+      "name": "Ice Punch",
+      "type": 15,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "75",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 9,
+    "fields": {
+      "name": "Thunder Punch",
+      "type": 13,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "75",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 10,
+    "fields": {
+      "name": "Scratch",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "40",
+      "power_points": 35,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 11,
+    "fields": {
+      "name": "Vice Grip",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "55",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 12,
+    "fields": {
+      "name": "Guillotine",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "OHKO",
+      "power_points": 5,
+      "accuracy": "30"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 13,
+    "fields": {
+      "name": "Razor Wind",
+      "type": 1,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 14,
+    "fields": {
+      "name": "Swords Dance",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 15,
+    "fields": {
+      "name": "Cut",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "50",
+      "power_points": 30,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 16,
+    "fields": {
+      "name": "Gust",
+      "type": 3,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "40",
+      "power_points": 35,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 17,
+    "fields": {
+      "name": "Wing Attack",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 35,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 18,
+    "fields": {
+      "name": "Whirlwind",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 19,
+    "fields": {
+      "name": "Fly",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "90",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 20,
+    "fields": {
+      "name": "Bind",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "15",
+      "power_points": 20,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 21,
+    "fields": {
+      "name": "Slam",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 20,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 22,
+    "fields": {
+      "name": "Vine Whip",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "45",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 23,
+    "fields": {
+      "name": "Stomp",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 24,
+    "fields": {
+      "name": "Double Kick",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "30",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 25,
+    "fields": {
+      "name": "Mega Kick",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 26,
+    "fields": {
+      "name": "Jump Kick",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "100",
+      "power_points": 10,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 27,
+    "fields": {
+      "name": "Rolling Kick",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 15,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 28,
+    "fields": {
+      "name": "Sand Attack",
+      "type": 5,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 29,
+    "fields": {
+      "name": "Headbutt",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "70",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 30,
+    "fields": {
+      "name": "Horn Attack",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "65",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 31,
+    "fields": {
+      "name": "Fury Attack",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "15",
+      "power_points": 20,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 32,
+    "fields": {
+      "name": "Horn Drill",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "OHKO",
+      "power_points": 5,
+      "accuracy": "30"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 33,
+    "fields": {
+      "name": "Tackle",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "40",
+      "power_points": 35,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 34,
+    "fields": {
+      "name": "Body Slam",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "85",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 35,
+    "fields": {
+      "name": "Wrap",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "15",
+      "power_points": 20,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 36,
+    "fields": {
+      "name": "Take Down",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "90",
+      "power_points": 20,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 37,
+    "fields": {
+      "name": "Thrash",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 38,
+    "fields": {
+      "name": "Double-Edge",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "120",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 39,
+    "fields": {
+      "name": "Tail Whip",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 40,
+    "fields": {
+      "name": "Poison Sting",
+      "type": 4,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "15",
+      "power_points": 35,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 41,
+    "fields": {
+      "name": "Twineedle",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "25",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 42,
+    "fields": {
+      "name": "Pin Missile",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "25",
+      "power_points": 20,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 43,
+    "fields": {
+      "name": "Leer",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 44,
+    "fields": {
+      "name": "Bite",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "60",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 45,
+    "fields": {
+      "name": "Growl",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 46,
+    "fields": {
+      "name": "Roar",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 47,
+    "fields": {
+      "name": "Sing",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "55"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 48,
+    "fields": {
+      "name": "Supersonic",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "55"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 49,
+    "fields": {
+      "name": "Sonic Boom",
+      "type": 1,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "Flat",
+      "power_points": 20,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 50,
+    "fields": {
+      "name": "Disable",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 51,
+    "fields": {
+      "name": "Acid",
+      "type": 4,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 52,
+    "fields": {
+      "name": "Ember",
+      "type": 10,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "40",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 53,
+    "fields": {
+      "name": "Flamethrower",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 54,
+    "fields": {
+      "name": "Mist",
+      "type": 15,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 55,
+    "fields": {
+      "name": "Water Gun",
+      "type": 11,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "40",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 56,
+    "fields": {
+      "name": "Hydro Pump",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "110",
+      "power_points": 5,
+      "accuracy": "80"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 57,
+    "fields": {
+      "name": "Surf",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 58,
+    "fields": {
+      "name": "Ice Beam",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 59,
+    "fields": {
+      "name": "Blizzard",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "110",
+      "power_points": 5,
+      "accuracy": "70"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 60,
+    "fields": {
+      "name": "Psybeam",
+      "type": 14,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 61,
+    "fields": {
+      "name": "Bubble Beam",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 62,
+    "fields": {
+      "name": "Aurora Beam",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 63,
+    "fields": {
+      "name": "Hyper Beam",
+      "type": 1,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 64,
+    "fields": {
+      "name": "Peck",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "35",
+      "power_points": 35,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 65,
+    "fields": {
+      "name": "Drill Peck",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 66,
+    "fields": {
+      "name": "Submission",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 20,
+      "accuracy": "80"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 67,
+    "fields": {
+      "name": "Low Kick",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 68,
+    "fields": {
+      "name": "Counter",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 69,
+    "fields": {
+      "name": "Seismic Toss",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 70,
+    "fields": {
+      "name": "Strength",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 71,
+    "fields": {
+      "name": "Absorb",
+      "type": 12,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "20",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 72,
+    "fields": {
+      "name": "Mega Drain",
+      "type": 12,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "40",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 73,
+    "fields": {
+      "name": "Leech Seed",
+      "type": 12,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 74,
+    "fields": {
+      "name": "Growth",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 75,
+    "fields": {
+      "name": "Razor Leaf",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "55",
+      "power_points": 25,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 76,
+    "fields": {
+      "name": "Solar Beam",
+      "type": 12,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 77,
+    "fields": {
+      "name": "Poison Powder",
+      "type": 4,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 35,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 78,
+    "fields": {
+      "name": "Stun Spore",
+      "type": 12,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 79,
+    "fields": {
+      "name": "Sleep Powder",
+      "type": 12,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 80,
+    "fields": {
+      "name": "Petal Dance",
+      "type": 12,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 81,
+    "fields": {
+      "name": "String Shot",
+      "type": 7,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 82,
+    "fields": {
+      "name": "Dragon Rage",
+      "type": 16,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "Flat",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 83,
+    "fields": {
+      "name": "Fire Spin",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "35",
+      "power_points": 15,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 84,
+    "fields": {
+      "name": "Thunder Shock",
+      "type": 13,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 85,
+    "fields": {
+      "name": "Thunderbolt",
+      "type": 13,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "90",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 86,
+    "fields": {
+      "name": "Thunder Wave",
+      "type": 13,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 87,
+    "fields": {
+      "name": "Thunder",
+      "type": 13,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "110",
+      "power_points": 10,
+      "accuracy": "70"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 88,
+    "fields": {
+      "name": "Rock Throw",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "50",
+      "power_points": 15,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 89,
+    "fields": {
+      "name": "Earthquake",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "100",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 90,
+    "fields": {
+      "name": "Fissure",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "OHKO",
+      "power_points": 5,
+      "accuracy": "30"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 91,
+    "fields": {
+      "name": "Dig",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 92,
+    "fields": {
+      "name": "Toxic",
+      "type": 4,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 93,
+    "fields": {
+      "name": "Confusion",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "50",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 94,
+    "fields": {
+      "name": "Psychic",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 95,
+    "fields": {
+      "name": "Hypnosis",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "60"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 96,
+    "fields": {
+      "name": "Meditate",
+      "type": 14,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 97,
+    "fields": {
+      "name": "Agility",
+      "type": 14,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 98,
+    "fields": {
+      "name": "Quick Attack",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 99,
+    "fields": {
+      "name": "Rage",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "20",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 100,
+    "fields": {
+      "name": "Teleport",
+      "type": 14,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 101,
+    "fields": {
+      "name": "Night Shade",
+      "type": 8,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "Variable",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 102,
+    "fields": {
+      "name": "Mimic",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 103,
+    "fields": {
+      "name": "Screech",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 104,
+    "fields": {
+      "name": "Double Team",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 105,
+    "fields": {
+      "name": "Recover",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 106,
+    "fields": {
+      "name": "Harden",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 107,
+    "fields": {
+      "name": "Minimize",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 108,
+    "fields": {
+      "name": "Smokescreen",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 109,
+    "fields": {
+      "name": "Confuse Ray",
+      "type": 8,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 110,
+    "fields": {
+      "name": "Withdraw",
+      "type": 11,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 111,
+    "fields": {
+      "name": "Defense Curl",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 112,
+    "fields": {
+      "name": "Barrier",
+      "type": 14,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 113,
+    "fields": {
+      "name": "Light Screen",
+      "type": 14,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 114,
+    "fields": {
+      "name": "Haze",
+      "type": 15,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 115,
+    "fields": {
+      "name": "Reflect",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 116,
+    "fields": {
+      "name": "Focus Energy",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 117,
+    "fields": {
+      "name": "Bide",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 10,
+      "accuracy": "Variable"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 118,
+    "fields": {
+      "name": "Metronome",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 119,
+    "fields": {
+      "name": "Mirror Move",
+      "type": 3,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 120,
+    "fields": {
+      "name": "Self-Destruct",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "200",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 121,
+    "fields": {
+      "name": "Egg Bomb",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "100",
+      "power_points": 10,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 122,
+    "fields": {
+      "name": "Lick",
+      "type": 8,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "30",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 123,
+    "fields": {
+      "name": "Smog",
+      "type": 4,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "30",
+      "power_points": 20,
+      "accuracy": "70"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 124,
+    "fields": {
+      "name": "Sludge",
+      "type": 4,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 125,
+    "fields": {
+      "name": "Bone Club",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 126,
+    "fields": {
+      "name": "Fire Blast",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "110",
+      "power_points": 5,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 127,
+    "fields": {
+      "name": "Waterfall",
+      "type": 11,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 128,
+    "fields": {
+      "name": "Clamp",
+      "type": 11,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "35",
+      "power_points": 15,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 129,
+    "fields": {
+      "name": "Swift",
+      "type": 1,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 130,
+    "fields": {
+      "name": "Skull Bash",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "130",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 131,
+    "fields": {
+      "name": "Spike Cannon",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "20",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 132,
+    "fields": {
+      "name": "Constrict",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "10",
+      "power_points": 35,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 133,
+    "fields": {
+      "name": "Amnesia",
+      "type": 14,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 134,
+    "fields": {
+      "name": "Kinesis",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "80"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 135,
+    "fields": {
+      "name": "Soft-Boiled",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 136,
+    "fields": {
+      "name": "High Jump Kick",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "130",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 137,
+    "fields": {
+      "name": "Glare",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 138,
+    "fields": {
+      "name": "Dream Eater",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "100",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 139,
+    "fields": {
+      "name": "Poison Gas",
+      "type": 4,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 140,
+    "fields": {
+      "name": "Barrage",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "15",
+      "power_points": 20,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 141,
+    "fields": {
+      "name": "Leech Life",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 142,
+    "fields": {
+      "name": "Lovely Kiss",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 143,
+    "fields": {
+      "name": "Sky Attack",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "140",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 144,
+    "fields": {
+      "name": "Transform",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 145,
+    "fields": {
+      "name": "Bubble",
+      "type": 11,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 146,
+    "fields": {
+      "name": "Dizzy Punch",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "70",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 147,
+    "fields": {
+      "name": "Spore",
+      "type": 12,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 148,
+    "fields": {
+      "name": "Flash",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 149,
+    "fields": {
+      "name": "Psywave",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "Variable",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 150,
+    "fields": {
+      "name": "Splash",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 151,
+    "fields": {
+      "name": "Acid Armor",
+      "type": 4,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 152,
+    "fields": {
+      "name": "Crabhammer",
+      "type": 11,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "100",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 153,
+    "fields": {
+      "name": "Explosion",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "250",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 154,
+    "fields": {
+      "name": "Fury Swipes",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "18",
+      "power_points": 15,
+      "accuracy": "80"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 155,
+    "fields": {
+      "name": "Bonemerang",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "50",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 156,
+    "fields": {
+      "name": "Rest",
+      "type": 14,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 157,
+    "fields": {
+      "name": "Rock Slide",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "75",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 158,
+    "fields": {
+      "name": "Hyper Fang",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 159,
+    "fields": {
+      "name": "Sharpen",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 160,
+    "fields": {
+      "name": "Conversion",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 161,
+    "fields": {
+      "name": "Tri Attack",
+      "type": 1,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 162,
+    "fields": {
+      "name": "Super Fang",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 163,
+    "fields": {
+      "name": "Slash",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "70",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 164,
+    "fields": {
+      "name": "Substitute",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 165,
+    "fields": {
+      "name": "Struggle",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "50",
+      "power_points": "-",
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 166,
+    "fields": {
+      "name": "Sketch",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 1,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 167,
+    "fields": {
+      "name": "Triple Kick",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "10",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 168,
+    "fields": {
+      "name": "Thief",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "60",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 169,
+    "fields": {
+      "name": "Spider Web",
+      "type": 7,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 170,
+    "fields": {
+      "name": "Mind Reader",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 171,
+    "fields": {
+      "name": "Nightmare",
+      "type": 8,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 172,
+    "fields": {
+      "name": "Flame Wheel",
+      "type": 10,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "60",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 173,
+    "fields": {
+      "name": "Snore",
+      "type": 1,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "50",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 174,
+    "fields": {
+      "name": "Curse",
+      "type": 8,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 175,
+    "fields": {
+      "name": "Flail",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "Variable",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 176,
+    "fields": {
+      "name": "Conversion 2",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 177,
+    "fields": {
+      "name": "Aeroblast",
+      "type": 3,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 178,
+    "fields": {
+      "name": "Cotton Spore",
+      "type": 12,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 179,
+    "fields": {
+      "name": "Reversal",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "Variable",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 180,
+    "fields": {
+      "name": "Spite",
+      "type": 8,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 181,
+    "fields": {
+      "name": "Powder Snow",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "40",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 182,
+    "fields": {
+      "name": "Protect",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 183,
+    "fields": {
+      "name": "Mach Punch",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 184,
+    "fields": {
+      "name": "Scary Face",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 185,
+    "fields": {
+      "name": "Feint Attack",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 186,
+    "fields": {
+      "name": "Sweet Kiss",
+      "type": 18,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 187,
+    "fields": {
+      "name": "Belly Drum",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 188,
+    "fields": {
+      "name": "Sludge Bomb",
+      "type": 4,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 189,
+    "fields": {
+      "name": "Mud-Slap",
+      "type": 5,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "20",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 190,
+    "fields": {
+      "name": "Octazooka",
+      "type": 11,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "65",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 191,
+    "fields": {
+      "name": "Spikes",
+      "type": 5,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 192,
+    "fields": {
+      "name": "Zap Cannon",
+      "type": 13,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "50"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 193,
+    "fields": {
+      "name": "Foresight",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 194,
+    "fields": {
+      "name": "Destiny Bond",
+      "type": 8,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 195,
+    "fields": {
+      "name": "Perish Song",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 196,
+    "fields": {
+      "name": "Icy Wind",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "55",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 197,
+    "fields": {
+      "name": "Detect",
+      "type": 2,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 198,
+    "fields": {
+      "name": "Bone Rush",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "25",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 199,
+    "fields": {
+      "name": "Lock-On",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 200,
+    "fields": {
+      "name": "Outrage",
+      "type": 16,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 201,
+    "fields": {
+      "name": "Sandstorm",
+      "type": 6,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 202,
+    "fields": {
+      "name": "Giga Drain",
+      "type": 12,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "75",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 203,
+    "fields": {
+      "name": "Endure",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 204,
+    "fields": {
+      "name": "Charm",
+      "type": 18,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 205,
+    "fields": {
+      "name": "Rollout",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "30",
+      "power_points": 20,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 206,
+    "fields": {
+      "name": "False Swipe",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "40",
+      "power_points": 40,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 207,
+    "fields": {
+      "name": "Swagger",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 208,
+    "fields": {
+      "name": "Milk Drink",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 209,
+    "fields": {
+      "name": "Spark",
+      "type": 13,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 210,
+    "fields": {
+      "name": "Fury Cutter",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "40",
+      "power_points": 20,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 211,
+    "fields": {
+      "name": "Steel Wing",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "70",
+      "power_points": 25,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 212,
+    "fields": {
+      "name": "Mean Look",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 213,
+    "fields": {
+      "name": "Attract",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 214,
+    "fields": {
+      "name": "Sleep Talk",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 215,
+    "fields": {
+      "name": "Heal Bell",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 216,
+    "fields": {
+      "name": "Return",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "Variable",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 217,
+    "fields": {
+      "name": "Present",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "Variable",
+      "power_points": 15,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 218,
+    "fields": {
+      "name": "Frustration",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "Variable",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 219,
+    "fields": {
+      "name": "Safeguard",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 25,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 220,
+    "fields": {
+      "name": "Pain Split",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 221,
+    "fields": {
+      "name": "Sacred Fire",
+      "type": 10,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 222,
+    "fields": {
+      "name": "Magnitude",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 223,
+    "fields": {
+      "name": "Dynamic Punch",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "50"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 224,
+    "fields": {
+      "name": "Megahorn",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 225,
+    "fields": {
+      "name": "Dragon Breath",
+      "type": 16,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 226,
+    "fields": {
+      "name": "Baton Pass",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 227,
+    "fields": {
+      "name": "Encore",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 228,
+    "fields": {
+      "name": "Pursuit",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "40",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 229,
+    "fields": {
+      "name": "Rapid Spin",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "20",
+      "power_points": 40,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 230,
+    "fields": {
+      "name": "Sweet Scent",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 231,
+    "fields": {
+      "name": "Iron Tail",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "100",
+      "power_points": 15,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 232,
+    "fields": {
+      "name": "Metal Claw",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "50",
+      "power_points": 35,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 233,
+    "fields": {
+      "name": "Vital Throw",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "70",
+      "power_points": 10,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 234,
+    "fields": {
+      "name": "Morning Sun",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 235,
+    "fields": {
+      "name": "Synthesis",
+      "type": 12,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 236,
+    "fields": {
+      "name": "Moonlight",
+      "type": 18,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 237,
+    "fields": {
+      "name": "Hidden Power",
+      "type": 1,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "60",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 238,
+    "fields": {
+      "name": "Cross Chop",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "80"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 239,
+    "fields": {
+      "name": "Twister",
+      "type": 16,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "40",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 240,
+    "fields": {
+      "name": "Rain Dance",
+      "type": 11,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 241,
+    "fields": {
+      "name": "Sunny Day",
+      "type": 10,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 242,
+    "fields": {
+      "name": "Crunch",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 243,
+    "fields": {
+      "name": "Mirror Coat",
+      "type": 14,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "Variable",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 244,
+    "fields": {
+      "name": "Psych Up",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 245,
+    "fields": {
+      "name": "Extreme Speed",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 246,
+    "fields": {
+      "name": "Ancient Power",
+      "type": 6,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "60",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 247,
+    "fields": {
+      "name": "Shadow Ball",
+      "type": 8,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 248,
+    "fields": {
+      "name": "Future Sight",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 249,
+    "fields": {
+      "name": "Rock Smash",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "40",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 250,
+    "fields": {
+      "name": "Whirlpool",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "35",
+      "power_points": 15,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 251,
+    "fields": {
+      "name": "Beat Up",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "Variable",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 252,
+    "fields": {
+      "name": "Fake Out",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "40",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 253,
+    "fields": {
+      "name": "Uproar",
+      "type": 1,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 254,
+    "fields": {
+      "name": "Stockpile",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 255,
+    "fields": {
+      "name": "Spit Up",
+      "type": 1,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 256,
+    "fields": {
+      "name": "Swallow",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 257,
+    "fields": {
+      "name": "Heat Wave",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "95",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 258,
+    "fields": {
+      "name": "Hail",
+      "type": 15,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 259,
+    "fields": {
+      "name": "Torment",
+      "type": 17,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 260,
+    "fields": {
+      "name": "Flatter",
+      "type": 17,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 261,
+    "fields": {
+      "name": "Will-O-Wisp",
+      "type": 10,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 262,
+    "fields": {
+      "name": "Memento",
+      "type": 17,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 263,
+    "fields": {
+      "name": "Facade",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "70",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 264,
+    "fields": {
+      "name": "Focus Punch",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "150",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 265,
+    "fields": {
+      "name": "Smelling Salts",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "70",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 266,
+    "fields": {
+      "name": "Follow Me",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 267,
+    "fields": {
+      "name": "Nature Power",
+      "type": 1,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 268,
+    "fields": {
+      "name": "Charge",
+      "type": 13,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 269,
+    "fields": {
+      "name": "Taunt",
+      "type": 17,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 270,
+    "fields": {
+      "name": "Helping Hand",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 271,
+    "fields": {
+      "name": "Trick",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 272,
+    "fields": {
+      "name": "Role Play",
+      "type": 14,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 273,
+    "fields": {
+      "name": "Wish",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 274,
+    "fields": {
+      "name": "Assist",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 275,
+    "fields": {
+      "name": "Ingrain",
+      "type": 12,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 276,
+    "fields": {
+      "name": "Superpower",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 277,
+    "fields": {
+      "name": "Magic Coat",
+      "type": 14,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 278,
+    "fields": {
+      "name": "Recycle",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 279,
+    "fields": {
+      "name": "Revenge",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "60",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 280,
+    "fields": {
+      "name": "Brick Break",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "75",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 281,
+    "fields": {
+      "name": "Yawn",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 282,
+    "fields": {
+      "name": "Knock Off",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 283,
+    "fields": {
+      "name": "Endeavor",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 284,
+    "fields": {
+      "name": "Eruption",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 285,
+    "fields": {
+      "name": "Skill Swap",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 286,
+    "fields": {
+      "name": "Imprison",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 287,
+    "fields": {
+      "name": "Refresh",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 288,
+    "fields": {
+      "name": "Grudge",
+      "type": 8,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 289,
+    "fields": {
+      "name": "Snatch",
+      "type": 17,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 290,
+    "fields": {
+      "name": "Secret Power",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "70",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 291,
+    "fields": {
+      "name": "Dive",
+      "type": 11,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 292,
+    "fields": {
+      "name": "Arm Thrust",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "15",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 293,
+    "fields": {
+      "name": "Camouflage",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 294,
+    "fields": {
+      "name": "Tail Glow",
+      "type": 7,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 295,
+    "fields": {
+      "name": "Luster Purge",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "70",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 296,
+    "fields": {
+      "name": "Mist Ball",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "70",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 297,
+    "fields": {
+      "name": "Feather Dance",
+      "type": 3,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 298,
+    "fields": {
+      "name": "Teeter Dance",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 299,
+    "fields": {
+      "name": "Blaze Kick",
+      "type": 10,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "85",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 300,
+    "fields": {
+      "name": "Mud Sport",
+      "type": 5,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 301,
+    "fields": {
+      "name": "Ice Ball",
+      "type": 15,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "30",
+      "power_points": 20,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 302,
+    "fields": {
+      "name": "Needle Arm",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "60",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 303,
+    "fields": {
+      "name": "Slack Off",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 304,
+    "fields": {
+      "name": "Hyper Voice",
+      "type": 1,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 305,
+    "fields": {
+      "name": "Poison Fang",
+      "type": 4,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "50",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 306,
+    "fields": {
+      "name": "Crush Claw",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "75",
+      "power_points": 10,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 307,
+    "fields": {
+      "name": "Blast Burn",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 308,
+    "fields": {
+      "name": "Hydro Cannon",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 309,
+    "fields": {
+      "name": "Meteor Mash",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 310,
+    "fields": {
+      "name": "Astonish",
+      "type": 8,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "30",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 311,
+    "fields": {
+      "name": "Weather Ball",
+      "type": 1,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "50",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 312,
+    "fields": {
+      "name": "Aromatherapy",
+      "type": 12,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 313,
+    "fields": {
+      "name": "Fake Tears",
+      "type": 17,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 314,
+    "fields": {
+      "name": "Air Cutter",
+      "type": 3,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 25,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 315,
+    "fields": {
+      "name": "Overheat",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "130",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 316,
+    "fields": {
+      "name": "Odor Sleuth",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 317,
+    "fields": {
+      "name": "Rock Tomb",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "60",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 318,
+    "fields": {
+      "name": "Silver Wind",
+      "type": 7,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "60",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 319,
+    "fields": {
+      "name": "Metal Sound",
+      "type": 9,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 320,
+    "fields": {
+      "name": "Grass Whistle",
+      "type": 12,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "55"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 321,
+    "fields": {
+      "name": "Tickle",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 322,
+    "fields": {
+      "name": "Cosmic Power",
+      "type": 14,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 323,
+    "fields": {
+      "name": "Water Spout",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 324,
+    "fields": {
+      "name": "Signal Beam",
+      "type": 7,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "75",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 325,
+    "fields": {
+      "name": "Shadow Punch",
+      "type": 8,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 326,
+    "fields": {
+      "name": "Extrasensory",
+      "type": 14,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 327,
+    "fields": {
+      "name": "Sky Uppercut",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "85",
+      "power_points": 15,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 328,
+    "fields": {
+      "name": "Sand Tomb",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "35",
+      "power_points": 15,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 329,
+    "fields": {
+      "name": "Sheer Cold",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "OHKO",
+      "power_points": 5,
+      "accuracy": "30"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 330,
+    "fields": {
+      "name": "Muddy Water",
+      "type": 11,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 331,
+    "fields": {
+      "name": "Bullet Seed",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "25",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 332,
+    "fields": {
+      "name": "Aerial Ace",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 333,
+    "fields": {
+      "name": "Icicle Spear",
+      "type": 15,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "25",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 334,
+    "fields": {
+      "name": "Iron Defense",
+      "type": 9,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 335,
+    "fields": {
+      "name": "Block",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 336,
+    "fields": {
+      "name": "Howl",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 337,
+    "fields": {
+      "name": "Dragon Claw",
+      "type": 16,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 338,
+    "fields": {
+      "name": "Frenzy Plant",
+      "type": 12,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 339,
+    "fields": {
+      "name": "Bulk Up",
+      "type": 2,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 340,
+    "fields": {
+      "name": "Bounce",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "85",
+      "power_points": 5,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 341,
+    "fields": {
+      "name": "Mud Shot",
+      "type": 5,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "55",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 342,
+    "fields": {
+      "name": "Poison Tail",
+      "type": 4,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "50",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 343,
+    "fields": {
+      "name": "Covet",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "60",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 344,
+    "fields": {
+      "name": "Volt Tackle",
+      "type": 13,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 345,
+    "fields": {
+      "name": "Magical Leaf",
+      "type": 12,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 346,
+    "fields": {
+      "name": "Water Sport",
+      "type": 11,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 347,
+    "fields": {
+      "name": "Calm Mind",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 348,
+    "fields": {
+      "name": "Leaf Blade",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "90",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 349,
+    "fields": {
+      "name": "Dragon Dance",
+      "type": 16,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 350,
+    "fields": {
+      "name": "Rock Blast",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "25",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 351,
+    "fields": {
+      "name": "Shock Wave",
+      "type": 13,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 352,
+    "fields": {
+      "name": "Water Pulse",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 353,
+    "fields": {
+      "name": "Doom Desire",
+      "type": 9,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "140",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 354,
+    "fields": {
+      "name": "Psycho Boost",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "140",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 355,
+    "fields": {
+      "name": "Roost",
+      "type": 3,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 356,
+    "fields": {
+      "name": "Gravity",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 357,
+    "fields": {
+      "name": "Miracle Eye",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 358,
+    "fields": {
+      "name": "Wake-Up Slap",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "70",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 359,
+    "fields": {
+      "name": "Hammer Arm",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "100",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 360,
+    "fields": {
+      "name": "Gyro Ball",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "Variable",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 361,
+    "fields": {
+      "name": "Healing Wish",
+      "type": 14,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 362,
+    "fields": {
+      "name": "Brine",
+      "type": 11,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "65",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 363,
+    "fields": {
+      "name": "Natural Gift",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "Variable",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 364,
+    "fields": {
+      "name": "Feint",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "30",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 365,
+    "fields": {
+      "name": "Pluck",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 366,
+    "fields": {
+      "name": "Tailwind",
+      "type": 3,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 367,
+    "fields": {
+      "name": "Acupressure",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 368,
+    "fields": {
+      "name": "Metal Burst",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "Variable",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 369,
+    "fields": {
+      "name": "U-turn",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "70",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 370,
+    "fields": {
+      "name": "Close Combat",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 371,
+    "fields": {
+      "name": "Payback",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "50",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 372,
+    "fields": {
+      "name": "Assurance",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "60",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 373,
+    "fields": {
+      "name": "Embargo",
+      "type": 17,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 374,
+    "fields": {
+      "name": "Fling",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "Variable",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 375,
+    "fields": {
+      "name": "Psycho Shift",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 376,
+    "fields": {
+      "name": "Trump Card",
+      "type": 1,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "Variable",
+      "power_points": 5,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 377,
+    "fields": {
+      "name": "Heal Block",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 378,
+    "fields": {
+      "name": "Wring Out",
+      "type": 1,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 379,
+    "fields": {
+      "name": "Power Trick",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 380,
+    "fields": {
+      "name": "Gastro Acid",
+      "type": 4,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 381,
+    "fields": {
+      "name": "Lucky Chant",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 382,
+    "fields": {
+      "name": "Me First",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 383,
+    "fields": {
+      "name": "Copycat",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 384,
+    "fields": {
+      "name": "Power Swap",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 385,
+    "fields": {
+      "name": "Guard Swap",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 386,
+    "fields": {
+      "name": "Punishment",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "Variable",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 387,
+    "fields": {
+      "name": "Last Resort",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "140",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 388,
+    "fields": {
+      "name": "Worry Seed",
+      "type": 12,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 389,
+    "fields": {
+      "name": "Sucker Punch",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "70",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 390,
+    "fields": {
+      "name": "Toxic Spikes",
+      "type": 4,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 391,
+    "fields": {
+      "name": "Heart Swap",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 392,
+    "fields": {
+      "name": "Aqua Ring",
+      "type": 11,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 393,
+    "fields": {
+      "name": "Magnet Rise",
+      "type": 13,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 394,
+    "fields": {
+      "name": "Flare Blitz",
+      "type": 10,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 395,
+    "fields": {
+      "name": "Force Palm",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 396,
+    "fields": {
+      "name": "Aura Sphere",
+      "type": 2,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 20,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 397,
+    "fields": {
+      "name": "Rock Polish",
+      "type": 6,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 398,
+    "fields": {
+      "name": "Poison Jab",
+      "type": 4,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 399,
+    "fields": {
+      "name": "Dark Pulse",
+      "type": 17,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 400,
+    "fields": {
+      "name": "Night Slash",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "70",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 401,
+    "fields": {
+      "name": "Aqua Tail",
+      "type": 11,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 402,
+    "fields": {
+      "name": "Seed Bomb",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 403,
+    "fields": {
+      "name": "Air Slash",
+      "type": 3,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "75",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 404,
+    "fields": {
+      "name": "X-Scissor",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 405,
+    "fields": {
+      "name": "Bug Buzz",
+      "type": 7,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 406,
+    "fields": {
+      "name": "Dragon Pulse",
+      "type": 16,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "85",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 407,
+    "fields": {
+      "name": "Dragon Rush",
+      "type": 16,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "100",
+      "power_points": 10,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 408,
+    "fields": {
+      "name": "Power Gem",
+      "type": 6,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 409,
+    "fields": {
+      "name": "Drain Punch",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "75",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 410,
+    "fields": {
+      "name": "Vacuum Wave",
+      "type": 2,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 411,
+    "fields": {
+      "name": "Focus Blast",
+      "type": 2,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "70"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 412,
+    "fields": {
+      "name": "Energy Ball",
+      "type": 12,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 413,
+    "fields": {
+      "name": "Brave Bird",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 414,
+    "fields": {
+      "name": "Earth Power",
+      "type": 5,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 415,
+    "fields": {
+      "name": "Switcheroo",
+      "type": 17,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 416,
+    "fields": {
+      "name": "Giga Impact",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 417,
+    "fields": {
+      "name": "Nasty Plot",
+      "type": 17,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 418,
+    "fields": {
+      "name": "Bullet Punch",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 419,
+    "fields": {
+      "name": "Avalanche",
+      "type": 15,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "60",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 420,
+    "fields": {
+      "name": "Ice Shard",
+      "type": 15,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 421,
+    "fields": {
+      "name": "Shadow Claw",
+      "type": 8,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "70",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 422,
+    "fields": {
+      "name": "Thunder Fang",
+      "type": 13,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "65",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 423,
+    "fields": {
+      "name": "Ice Fang",
+      "type": 15,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "65",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 424,
+    "fields": {
+      "name": "Fire Fang",
+      "type": 10,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "65",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 425,
+    "fields": {
+      "name": "Shadow Sneak",
+      "type": 8,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 426,
+    "fields": {
+      "name": "Mud Bomb",
+      "type": 5,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "65",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 427,
+    "fields": {
+      "name": "Psycho Cut",
+      "type": 14,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "70",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 428,
+    "fields": {
+      "name": "Zen Headbutt",
+      "type": 14,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 429,
+    "fields": {
+      "name": "Mirror Shot",
+      "type": 9,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "65",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 430,
+    "fields": {
+      "name": "Flash Cannon",
+      "type": 9,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 431,
+    "fields": {
+      "name": "Rock Climb",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "90",
+      "power_points": 20,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 432,
+    "fields": {
+      "name": "Defog",
+      "type": 3,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 433,
+    "fields": {
+      "name": "Trick Room",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 434,
+    "fields": {
+      "name": "Draco Meteor",
+      "type": 16,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "130",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 435,
+    "fields": {
+      "name": "Discharge",
+      "type": 13,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 436,
+    "fields": {
+      "name": "Lava Plume",
+      "type": 10,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 437,
+    "fields": {
+      "name": "Leaf Storm",
+      "type": 12,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "130",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 438,
+    "fields": {
+      "name": "Power Whip",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 439,
+    "fields": {
+      "name": "Rock Wrecker",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 440,
+    "fields": {
+      "name": "Cross Poison",
+      "type": 4,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "70",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 441,
+    "fields": {
+      "name": "Gunk Shot",
+      "type": 4,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "80"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 442,
+    "fields": {
+      "name": "Iron Head",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 443,
+    "fields": {
+      "name": "Magnet Bomb",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 444,
+    "fields": {
+      "name": "Stone Edge",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "80"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 445,
+    "fields": {
+      "name": "Captivate",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 446,
+    "fields": {
+      "name": "Stealth Rock",
+      "type": 6,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 447,
+    "fields": {
+      "name": "Grass Knot",
+      "type": 12,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "Variable",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 448,
+    "fields": {
+      "name": "Chatter",
+      "type": 3,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 449,
+    "fields": {
+      "name": "Judgment",
+      "type": 1,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "100",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 450,
+    "fields": {
+      "name": "Bug Bite",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 451,
+    "fields": {
+      "name": "Charge Beam",
+      "type": 13,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "50",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 452,
+    "fields": {
+      "name": "Wood Hammer",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "120",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 453,
+    "fields": {
+      "name": "Aqua Jet",
+      "type": 11,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "40",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 454,
+    "fields": {
+      "name": "Attack Order",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "90",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 455,
+    "fields": {
+      "name": "Defend Order",
+      "type": 7,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 456,
+    "fields": {
+      "name": "Heal Order",
+      "type": 7,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 457,
+    "fields": {
+      "name": "Head Smash",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "80"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 458,
+    "fields": {
+      "name": "Double Hit",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "35",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 459,
+    "fields": {
+      "name": "Roar of Time",
+      "type": 16,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "150",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 460,
+    "fields": {
+      "name": "Spacial Rend",
+      "type": 16,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 461,
+    "fields": {
+      "name": "Lunar Dance",
+      "type": 14,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 462,
+    "fields": {
+      "name": "Crush Grip",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 463,
+    "fields": {
+      "name": "Magma Storm",
+      "type": 10,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "75"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 464,
+    "fields": {
+      "name": "Dark Void",
+      "type": 17,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "50"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 465,
+    "fields": {
+      "name": "Seed Flare",
+      "type": 12,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 466,
+    "fields": {
+      "name": "Ominous Wind",
+      "type": 8,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "60",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 467,
+    "fields": {
+      "name": "Shadow Force",
+      "type": 8,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 468,
+    "fields": {
+      "name": "Hone Claws",
+      "type": 17,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 469,
+    "fields": {
+      "name": "Wide Guard",
+      "type": 6,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 470,
+    "fields": {
+      "name": "Guard Split",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 471,
+    "fields": {
+      "name": "Power Split",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 472,
+    "fields": {
+      "name": "Wonder Room",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 473,
+    "fields": {
+      "name": "Psyshock",
+      "type": 14,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 474,
+    "fields": {
+      "name": "Venoshock",
+      "type": 4,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "65",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 475,
+    "fields": {
+      "name": "Autotomize",
+      "type": 9,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 476,
+    "fields": {
+      "name": "Rage Powder",
+      "type": 7,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 477,
+    "fields": {
+      "name": "Telekinesis",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 478,
+    "fields": {
+      "name": "Magic Room",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 479,
+    "fields": {
+      "name": "Smack Down",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "50",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 480,
+    "fields": {
+      "name": "Storm Throw",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 481,
+    "fields": {
+      "name": "Flame Burst",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "70",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 482,
+    "fields": {
+      "name": "Sludge Wave",
+      "type": 4,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "95",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 483,
+    "fields": {
+      "name": "Quiver Dance",
+      "type": 7,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 484,
+    "fields": {
+      "name": "Heavy Slam",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 485,
+    "fields": {
+      "name": "Synchronoise",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 486,
+    "fields": {
+      "name": "Electro Ball",
+      "type": 13,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "Variable",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 487,
+    "fields": {
+      "name": "Soak",
+      "type": 11,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 488,
+    "fields": {
+      "name": "Flame Charge",
+      "type": 10,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "50",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 489,
+    "fields": {
+      "name": "Coil",
+      "type": 4,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 490,
+    "fields": {
+      "name": "Low Sweep",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 491,
+    "fields": {
+      "name": "Acid Spray",
+      "type": 4,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "40",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 492,
+    "fields": {
+      "name": "Foul Play",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "95",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 493,
+    "fields": {
+      "name": "Simple Beam",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 494,
+    "fields": {
+      "name": "Entrainment",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 495,
+    "fields": {
+      "name": "After You",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 496,
+    "fields": {
+      "name": "Round",
+      "type": 1,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "60",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 497,
+    "fields": {
+      "name": "Echoed Voice",
+      "type": 1,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "40",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 498,
+    "fields": {
+      "name": "Chip Away",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "70",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 499,
+    "fields": {
+      "name": "Clear Smog",
+      "type": 4,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "50",
+      "power_points": 15,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 500,
+    "fields": {
+      "name": "Stored Power",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "20",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 501,
+    "fields": {
+      "name": "Quick Guard",
+      "type": 2,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 502,
+    "fields": {
+      "name": "Ally Switch",
+      "type": 14,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 503,
+    "fields": {
+      "name": "Scald",
+      "type": 11,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 504,
+    "fields": {
+      "name": "Shell Smash",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 505,
+    "fields": {
+      "name": "Heal Pulse",
+      "type": 14,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 506,
+    "fields": {
+      "name": "Hex",
+      "type": 8,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "65",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 507,
+    "fields": {
+      "name": "Sky Drop",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "60",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 508,
+    "fields": {
+      "name": "Shift Gear",
+      "type": 9,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 509,
+    "fields": {
+      "name": "Circle Throw",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "60",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 510,
+    "fields": {
+      "name": "Incinerate",
+      "type": 10,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "60",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 511,
+    "fields": {
+      "name": "Quash",
+      "type": 17,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 512,
+    "fields": {
+      "name": "Acrobatics",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "55",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 513,
+    "fields": {
+      "name": "Reflect Type",
+      "type": 1,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 514,
+    "fields": {
+      "name": "Retaliate",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "70",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 515,
+    "fields": {
+      "name": "Final Gambit",
+      "type": 2,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 516,
+    "fields": {
+      "name": "Bestow",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 517,
+    "fields": {
+      "name": "Inferno",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "50"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 518,
+    "fields": {
+      "name": "Water Pledge",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 519,
+    "fields": {
+      "name": "Fire Pledge",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 520,
+    "fields": {
+      "name": "Grass Pledge",
+      "type": 12,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 521,
+    "fields": {
+      "name": "Volt Switch",
+      "type": 13,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "70",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 522,
+    "fields": {
+      "name": "Struggle Bug",
+      "type": 7,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "50",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 523,
+    "fields": {
+      "name": "Bulldoze",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "60",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 524,
+    "fields": {
+      "name": "Frost Breath",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "60",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 525,
+    "fields": {
+      "name": "Dragon Tail",
+      "type": 16,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "60",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 526,
+    "fields": {
+      "name": "Work Up",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 527,
+    "fields": {
+      "name": "Electroweb",
+      "type": 13,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "55",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 528,
+    "fields": {
+      "name": "Wild Charge",
+      "type": 13,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "90",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 529,
+    "fields": {
+      "name": "Drill Run",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 530,
+    "fields": {
+      "name": "Dual Chop",
+      "type": 16,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "40",
+      "power_points": 15,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 531,
+    "fields": {
+      "name": "Heart Stamp",
+      "type": 14,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "60",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 532,
+    "fields": {
+      "name": "Horn Leech",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "75",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 533,
+    "fields": {
+      "name": "Sacred Sword",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "90",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 534,
+    "fields": {
+      "name": "Razor Shell",
+      "type": 11,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "75",
+      "power_points": 10,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 535,
+    "fields": {
+      "name": "Heat Crash",
+      "type": 10,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "Variable",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 536,
+    "fields": {
+      "name": "Leaf Tornado",
+      "type": 12,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "65",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 537,
+    "fields": {
+      "name": "Steamroller",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 538,
+    "fields": {
+      "name": "Cotton Guard",
+      "type": 12,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 539,
+    "fields": {
+      "name": "Night Daze",
+      "type": 17,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "85",
+      "power_points": 10,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 540,
+    "fields": {
+      "name": "Psystrike",
+      "type": 14,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "100",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 541,
+    "fields": {
+      "name": "Tail Slap",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "25",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 542,
+    "fields": {
+      "name": "Hurricane",
+      "type": 3,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "110",
+      "power_points": 10,
+      "accuracy": "70"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 543,
+    "fields": {
+      "name": "Head Charge",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "120",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 544,
+    "fields": {
+      "name": "Gear Grind",
+      "type": 9,
+      "category": "Physical",
+      "contest": "Clever",
+      "power": "50",
+      "power_points": 15,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 545,
+    "fields": {
+      "name": "Searing Shot",
+      "type": 10,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 546,
+    "fields": {
+      "name": "Techno Blast",
+      "type": 1,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 547,
+    "fields": {
+      "name": "Relic Song",
+      "type": 1,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "75",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 548,
+    "fields": {
+      "name": "Secret Sword",
+      "type": 2,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "85",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 549,
+    "fields": {
+      "name": "Glaciate",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "65",
+      "power_points": 10,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 550,
+    "fields": {
+      "name": "Bolt Strike",
+      "type": 13,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "130",
+      "power_points": 5,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 551,
+    "fields": {
+      "name": "Blue Flare",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "130",
+      "power_points": 5,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 552,
+    "fields": {
+      "name": "Fiery Dance",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 553,
+    "fields": {
+      "name": "Freeze Shock",
+      "type": 15,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "140",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 554,
+    "fields": {
+      "name": "Ice Burn",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "140",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 555,
+    "fields": {
+      "name": "Snarl",
+      "type": 17,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "55",
+      "power_points": 15,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 556,
+    "fields": {
+      "name": "Icicle Crash",
+      "type": 15,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "85",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 557,
+    "fields": {
+      "name": "V-create",
+      "type": 10,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "180",
+      "power_points": 5,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 558,
+    "fields": {
+      "name": "Fusion Flare",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 559,
+    "fields": {
+      "name": "Fusion Bolt",
+      "type": 13,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 560,
+    "fields": {
+      "name": "Flying Press",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "100",
+      "power_points": 10,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 561,
+    "fields": {
+      "name": "Mat Block",
+      "type": 2,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 562,
+    "fields": {
+      "name": "Belch",
+      "type": 4,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 563,
+    "fields": {
+      "name": "Rototiller",
+      "type": 5,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 564,
+    "fields": {
+      "name": "Sticky Web",
+      "type": 7,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 565,
+    "fields": {
+      "name": "Fell Stinger",
+      "type": 7,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "50",
+      "power_points": 25,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 566,
+    "fields": {
+      "name": "Phantom Force",
+      "type": 8,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 567,
+    "fields": {
+      "name": "Trick-or-Treat",
+      "type": 8,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 568,
+    "fields": {
+      "name": "Noble Roar",
+      "type": 1,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 569,
+    "fields": {
+      "name": "Ion Deluge",
+      "type": 13,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 25,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 570,
+    "fields": {
+      "name": "Parabolic Charge",
+      "type": 13,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "65",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 571,
+    "fields": {
+      "name": "Forest's Curse",
+      "type": 12,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 572,
+    "fields": {
+      "name": "Petal Blizzard",
+      "type": 12,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 573,
+    "fields": {
+      "name": "Freeze-Dry",
+      "type": 15,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "70",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 574,
+    "fields": {
+      "name": "Disarming Voice",
+      "type": 18,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "40",
+      "power_points": 15,
+      "accuracy": "Always"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 575,
+    "fields": {
+      "name": "Parting Shot",
+      "type": 17,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 576,
+    "fields": {
+      "name": "Topsy-Turvy",
+      "type": 17,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 577,
+    "fields": {
+      "name": "Draining Kiss",
+      "type": 18,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "50",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 578,
+    "fields": {
+      "name": "Crafty Shield",
+      "type": 18,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 579,
+    "fields": {
+      "name": "Flower Shield",
+      "type": 18,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 580,
+    "fields": {
+      "name": "Grassy Terrain",
+      "type": 12,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 581,
+    "fields": {
+      "name": "Misty Terrain",
+      "type": 18,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 582,
+    "fields": {
+      "name": "Electrify",
+      "type": 13,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 583,
+    "fields": {
+      "name": "Play Rough",
+      "type": 18,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 584,
+    "fields": {
+      "name": "Fairy Wind",
+      "type": 18,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "40",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 585,
+    "fields": {
+      "name": "Moonblast",
+      "type": 18,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "95",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 586,
+    "fields": {
+      "name": "Boomburst",
+      "type": 1,
+      "category": "Special",
+      "contest": "Tough",
+      "power": "140",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 587,
+    "fields": {
+      "name": "Fairy Lock",
+      "type": 18,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 588,
+    "fields": {
+      "name": "King's Shield",
+      "type": 9,
+      "category": "Status",
+      "contest": "Cool",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 589,
+    "fields": {
+      "name": "Play Nice",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 590,
+    "fields": {
+      "name": "Confide",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 591,
+    "fields": {
+      "name": "Diamond Storm",
+      "type": 6,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 592,
+    "fields": {
+      "name": "Steam Eruption",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "110",
+      "power_points": 5,
+      "accuracy": "95"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 593,
+    "fields": {
+      "name": "Hyperspace Hole",
+      "type": 14,
+      "category": "Special",
+      "contest": "Clever",
+      "power": "80",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 594,
+    "fields": {
+      "name": "Water Shuriken",
+      "type": 11,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "15",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 595,
+    "fields": {
+      "name": "Mystical Fire",
+      "type": 10,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "75",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 596,
+    "fields": {
+      "name": "Spiky Shield",
+      "type": 12,
+      "category": "Status",
+      "contest": "Tough",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 597,
+    "fields": {
+      "name": "Aromatic Mist",
+      "type": 18,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 598,
+    "fields": {
+      "name": "Eerie Impulse",
+      "type": 13,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 15,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 599,
+    "fields": {
+      "name": "Venom Drench",
+      "type": 4,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 600,
+    "fields": {
+      "name": "Powder",
+      "type": 7,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 601,
+    "fields": {
+      "name": "Geomancy",
+      "type": 18,
+      "category": "Status",
+      "contest": "Beautiful",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 602,
+    "fields": {
+      "name": "Magnetic Flux",
+      "type": 13,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 20,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 603,
+    "fields": {
+      "name": "Happy Hour",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 604,
+    "fields": {
+      "name": "Electric Terrain",
+      "type": 13,
+      "category": "Status",
+      "contest": "Clever",
+      "power": "-",
+      "power_points": 10,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 605,
+    "fields": {
+      "name": "Dazzling Gleam",
+      "type": 18,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 606,
+    "fields": {
+      "name": "Celebrate",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 607,
+    "fields": {
+      "name": "Hold Hands",
+      "type": 1,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 40,
+      "accuracy": "-"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 608,
+    "fields": {
+      "name": "Baby-Doll Eyes",
+      "type": 18,
+      "category": "Status",
+      "contest": "Cute",
+      "power": "-",
+      "power_points": 30,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 609,
+    "fields": {
+      "name": "Nuzzle",
+      "type": 13,
+      "category": "Physical",
+      "contest": "Cute",
+      "power": "20",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 610,
+    "fields": {
+      "name": "Hold Back",
+      "type": 1,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "40",
+      "power_points": 40,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 611,
+    "fields": {
+      "name": "Infestation",
+      "type": 7,
+      "category": "Special",
+      "contest": "Cute",
+      "power": "20",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 612,
+    "fields": {
+      "name": "Power-Up Punch",
+      "type": 2,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "40",
+      "power_points": 20,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 613,
+    "fields": {
+      "name": "Oblivion Wing",
+      "type": 3,
+      "category": "Special",
+      "contest": "Cool",
+      "power": "80",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 614,
+    "fields": {
+      "name": "Thousand Arrows",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 615,
+    "fields": {
+      "name": "Thousand Waves",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 616,
+    "fields": {
+      "name": "Land's Wrath",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "90",
+      "power_points": 10,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 617,
+    "fields": {
+      "name": "Light of Ruin",
+      "type": 18,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "140",
+      "power_points": 5,
+      "accuracy": "90"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 618,
+    "fields": {
+      "name": "Origin Pulse",
+      "type": 11,
+      "category": "Special",
+      "contest": "Beautiful",
+      "power": "110",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 619,
+    "fields": {
+      "name": "Precipice Blades",
+      "type": 5,
+      "category": "Physical",
+      "contest": "Cool",
+      "power": "120",
+      "power_points": 10,
+      "accuracy": "85"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 620,
+    "fields": {
+      "name": "Dragon Ascent",
+      "type": 3,
+      "category": "Physical",
+      "contest": "Beautiful",
+      "power": "120",
+      "power_points": 5,
+      "accuracy": "100"
+    }
+  },
+  {
+    "model": "pokemon.move",
+    "pk": 621,
+    "fields": {
+      "name": "Hyperspace Fury",
+      "type": 17,
+      "category": "Physical",
+      "contest": "Tough",
+      "power": "100",
+      "power_points": 5,
+      "accuracy": "-"
+    }
+  }
+]

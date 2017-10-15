@@ -1,0 +1,622 @@
+id,name,category,power_points,accuracy,type,contest,power
+1,Pound ,Physical ,35,100,1,Tough ,40
+2,Karate Chop ,Physical ,25,100,2,Tough ,50
+3,Double Slap ,Physical ,10,85,1,Cute ,15
+4,Comet Punch ,Physical ,15,85,1,Tough ,18
+5,Mega Punch ,Physical ,20,85,1,Tough ,80
+6,Pay Day ,Physical ,20,100,1,Clever ,40
+7,Fire Punch ,Physical ,15,100,10,Tough ,75
+8,Ice Punch ,Physical ,15,100,15,Beautiful ,75
+9,Thunder Punch ,Physical ,15,100,13,Cool ,75
+10,Scratch ,Physical ,35,100,1,Tough ,40
+11,Vice Grip ,Physical ,30,100,1,Tough ,55
+12,Guillotine ,Physical ,5,30,1,Cool ,OHKO
+13,Razor Wind ,Special ,10,100,1,Cool ,80
+14,Swords Dance ,Status ,20,-,1,Beautiful ,-
+15,Cut ,Physical ,30,95,1,Cool ,50
+16,Gust ,Special ,35,100,3,Clever ,40
+17,Wing Attack ,Physical ,35,100,3,Cool ,60
+18,Whirlwind ,Status ,20,-,1,Clever ,-
+19,Fly ,Physical ,15,95,3,Clever ,90
+20,Bind ,Physical ,20,85,1,Tough ,15
+21,Slam ,Physical ,20,75,1,Tough ,80
+22,Vine Whip ,Physical ,25,100,12,Cool ,45
+23,Stomp ,Physical ,20,100,1,Tough ,65
+24,Double Kick ,Physical ,30,100,2,Cool ,30
+25,Mega Kick ,Physical ,5,75,1,Cool ,120
+26,Jump Kick ,Physical ,10,95,2,Cool ,100
+27,Rolling Kick ,Physical ,15,85,2,Cool ,60
+28,Sand Attack ,Status ,15,100,5,Cute ,-
+29,Headbutt ,Physical ,15,100,1,Tough ,70
+30,Horn Attack ,Physical ,25,100,1,Cool ,65
+31,Fury Attack ,Physical ,20,85,1,Cool ,15
+32,Horn Drill ,Physical ,5,30,1,Cool ,OHKO
+33,Tackle ,Physical ,35,100,1,Tough ,40
+34,Body Slam ,Physical ,15,100,1,Tough ,85
+35,Wrap ,Physical ,20,90,1,Tough ,15
+36,Take Down ,Physical ,20,85,1,Tough ,90
+37,Thrash ,Physical ,10,100,1,Tough ,120
+38,Double-Edge ,Physical ,15,100,1,Tough ,120
+39,Tail Whip ,Status ,30,100,1,Cute ,-
+40,Poison Sting ,Physical ,35,100,4,Clever ,15
+41,Twineedle ,Physical ,20,100,7,Cool ,25
+42,Pin Missile ,Physical ,20,95,7,Cool ,25
+43,Leer ,Status ,30,100,1,Cool ,-
+44,Bite ,Physical ,25,100,17,Tough ,60
+45,Growl ,Status ,40,100,1,Cute ,-
+46,Roar ,Status ,20,-,1,Cool ,-
+47,Sing ,Status ,15,55,1,Cute ,-
+48,Supersonic ,Status ,20,55,1,Clever ,-
+49,Sonic Boom ,Special ,20,90,1,Cool ,Flat
+50,Disable ,Status ,20,100,1,Clever ,-
+51,Acid ,Special ,30,100,4,Clever ,40
+52,Ember ,Special ,25,100,10,Cute ,40
+53,Flamethrower ,Special ,15,100,10,Beautiful ,90
+54,Mist ,Status ,30,-,15,Beautiful ,-
+55,Water Gun ,Special ,25,100,11,Cute ,40
+56,Hydro Pump ,Special ,5,80,11,Beautiful ,110
+57,Surf ,Special ,15,100,11,Beautiful ,90
+58,Ice Beam ,Special ,10,100,15,Beautiful ,90
+59,Blizzard ,Special ,5,70,15,Beautiful ,110
+60,Psybeam ,Special ,20,100,14,Beautiful ,65
+61,Bubble Beam ,Special ,20,100,11,Beautiful ,65
+62,Aurora Beam ,Special ,20,100,15,Beautiful ,65
+63,Hyper Beam ,Special ,5,90,1,Cool ,150
+64,Peck ,Physical ,35,100,3,Cool ,35
+65,Drill Peck ,Physical ,20,100,3,Cool ,80
+66,Submission ,Physical ,20,80,2,Cool ,80
+67,Low Kick ,Physical ,20,100,2,Tough ,Variable
+68,Counter ,Physical ,20,100,2,Tough ,Variable
+69,Seismic Toss ,Physical ,20,100,2,Tough ,Variable
+70,Strength ,Physical ,15,100,1,Tough ,80
+71,Absorb ,Special ,25,100,12,Clever ,20
+72,Mega Drain ,Special ,15,100,12,Clever ,40
+73,Leech Seed ,Status ,10,90,12,Clever ,-
+74,Growth ,Status ,20,-,1,Beautiful ,-
+75,Razor Leaf ,Physical ,25,95,12,Cool ,55
+76,Solar Beam ,Special ,10,100,12,Cool ,120
+77,Poison Powder ,Status ,35,75,4,Clever ,-
+78,Stun Spore ,Status ,30,75,12,Clever ,-
+79,Sleep Powder ,Status ,15,75,12,Clever ,-
+80,Petal Dance ,Special ,10,100,12,Beautiful ,120
+81,String Shot ,Status ,40,95,7,Clever ,-
+82,Dragon Rage ,Special ,10,100,16,Cool ,Flat
+83,Fire Spin ,Special ,15,85,10,Beautiful ,35
+84,Thunder Shock ,Special ,30,100,13,Cool ,40
+85,Thunderbolt ,Special ,15,100,13,Cool ,90
+86,Thunder Wave ,Status ,20,90,13,Cool ,-
+87,Thunder ,Special ,10,70,13,Cool ,110
+88,Rock Throw ,Physical ,15,90,6,Tough ,50
+89,Earthquake ,Physical ,10,100,5,Tough ,100
+90,Fissure ,Physical ,5,30,5,Tough ,OHKO
+91,Dig ,Physical ,10,100,5,Tough ,80
+92,Toxic ,Status ,10,90,4,Clever ,-
+93,Confusion ,Special ,25,100,14,Clever ,50
+94,Psychic ,Special ,10,100,14,Clever ,90
+95,Hypnosis ,Status ,20,60,14,Clever ,-
+96,Meditate ,Status ,40,-,14,Beautiful ,-
+97,Agility ,Status ,30,-,14,Cool ,-
+98,Quick Attack ,Physical ,30,100,1,Cool ,40
+99,Rage ,Physical ,20,100,1,Tough ,20
+100,Teleport ,Status ,20,-,14,Cool ,-
+101,Night Shade ,Special ,15,100,8,Clever ,Variable
+102,Mimic ,Status ,10,-,1,Cute ,-
+103,Screech ,Status ,40,85,1,Clever ,-
+104,Double Team ,Status ,15,-,1,Cool ,-
+105,Recover ,Status ,10,-,1,Clever ,-
+106,Harden ,Status ,30,-,1,Tough ,-
+107,Minimize ,Status ,10,-,1,Cute ,-
+108,Smokescreen ,Status ,20,100,1,Clever ,-
+109,Confuse Ray ,Status ,10,100,8,Clever ,-
+110,Withdraw ,Status ,40,-,11,Cute ,-
+111,Defense Curl ,Status ,40,-,1,Cute ,-
+112,Barrier ,Status ,20,-,14,Cool ,-
+113,Light Screen ,Status ,30,-,14,Beautiful ,-
+114,Haze ,Status ,30,-,15,Beautiful ,-
+115,Reflect ,Status ,20,-,14,Clever ,-
+116,Focus Energy ,Status ,30,-,1,Cool ,-
+117,Bide ,Physical ,10,Variable,1,Tough ,Variable
+118,Metronome ,Status ,10,-,1,Cute ,-
+119,Mirror Move ,Status ,20,-,3,Clever ,-
+120,Self-Destruct ,Physical ,5,100,1,Beautiful ,200
+121,Egg Bomb ,Physical ,10,75,1,Cute ,100
+122,Lick ,Physical ,30,100,8,Cute ,30
+123,Smog ,Special ,20,70,4,Tough ,30
+124,Sludge ,Special ,20,100,4,Tough ,65
+125,Bone Club ,Physical ,20,85,5,Tough ,65
+126,Fire Blast ,Special ,5,85,10,Beautiful ,110
+127,Waterfall ,Physical ,15,100,11,Tough ,80
+128,Clamp ,Physical ,15,85,11,Tough ,35
+129,Swift ,Special ,20,Always,1,Cool ,60
+130,Skull Bash ,Physical ,10,100,1,Tough ,130
+131,Spike Cannon ,Physical ,15,100,1,Cool ,20
+132,Constrict ,Physical ,35,100,1,Tough ,10
+133,Amnesia ,Status ,20,-,14,Cute ,-
+134,Kinesis ,Status ,15,80,14,Clever ,-
+135,Soft-Boiled ,Status ,10,-,1,Cute ,-
+136,High Jump Kick ,Physical ,10,90,2,Cool ,130
+137,Glare ,Status ,30,100,1,Tough ,-
+138,Dream Eater ,Special ,15,100,14,Clever ,100
+139,Poison Gas ,Status ,40,90,4,Clever ,-
+140,Barrage ,Physical ,20,85,1,Cute ,15
+141,Leech Life ,Physical ,10,100,7,Clever ,80
+142,Lovely Kiss ,Status ,10,75,1,Beautiful ,-
+143,Sky Attack ,Physical ,5,90,3,Cool ,140
+144,Transform ,Status ,10,-,1,Clever ,-
+145,Bubble ,Special ,30,100,11,Cute ,40
+146,Dizzy Punch ,Physical ,10,100,1,Cute ,70
+147,Spore ,Status ,15,100,12,Beautiful ,-
+148,Flash ,Status ,20,100,1,Beautiful ,-
+149,Psywave ,Special ,15,100,14,Clever ,Variable
+150,Splash ,Status ,40,-,1,Cute ,-
+151,Acid Armor ,Status ,20,-,4,Tough ,-
+152,Crabhammer ,Physical ,10,90,11,Tough ,100
+153,Explosion ,Physical ,5,100,1,Beautiful ,250
+154,Fury Swipes ,Physical ,15,80,1,Tough ,18
+155,Bonemerang ,Physical ,10,90,5,Tough ,50
+156,Rest ,Status ,10,-,14,Cute ,-
+157,Rock Slide ,Physical ,10,90,6,Tough ,75
+158,Hyper Fang ,Physical ,15,90,1,Cool ,80
+159,Sharpen ,Status ,30,-,1,Cute ,-
+160,Conversion ,Status ,30,-,1,Beautiful ,-
+161,Tri Attack ,Special ,10,100,1,Beautiful ,80
+162,Super Fang ,Physical ,10,90,1,Tough ,Variable
+163,Slash ,Physical ,20,100,1,Cool ,70
+164,Substitute ,Status ,10,-,1,Cute ,-
+165,Struggle ,Physical ,-,Always,1,Tough ,50
+166,Sketch ,Status ,1,-,1,Clever ,-
+167,Triple Kick ,Physical ,10,90,2,Cool ,10
+168,Thief ,Physical ,25,100,17,Tough ,60
+169,Spider Web ,Status ,10,-,7,Clever ,-
+170,Mind Reader ,Status ,5,-,1,Clever ,-
+171,Nightmare ,Status ,15,100,8,Clever ,-
+172,Flame Wheel ,Physical ,25,100,10,Beautiful ,60
+173,Snore ,Special ,15,100,1,Cute ,50
+174,Curse ,Status ,10,-,8,Tough ,-
+175,Flail ,Physical ,15,100,1,Cute ,Variable
+176,Conversion 2 ,Status ,30,-,1,Beautiful ,-
+177,Aeroblast ,Special ,5,95,3,Cool ,100
+178,Cotton Spore ,Status ,40,100,12,Beautiful ,-
+179,Reversal ,Physical ,15,100,2,Cool ,Variable
+180,Spite ,Status ,10,100,8,Tough ,-
+181,Powder Snow ,Special ,25,100,15,Beautiful ,40
+182,Protect ,Status ,10,-,1,Cute ,-
+183,Mach Punch ,Physical ,30,100,2,Cool ,40
+184,Scary Face ,Status ,10,100,1,Tough ,-
+185,Feint Attack ,Physical ,20,Always,17,Clever ,60
+186,Sweet Kiss ,Status ,10,75,18,Cute ,-
+187,Belly Drum ,Status ,10,-,1,Cute ,-
+188,Sludge Bomb ,Special ,10,100,4,Tough ,90
+189,Mud-Slap ,Special ,10,100,5,Cute ,20
+190,Octazooka ,Special ,10,85,11,Tough ,65
+191,Spikes ,Status ,20,-,5,Clever ,-
+192,Zap Cannon ,Special ,5,50,13,Cool ,120
+193,Foresight ,Status ,40,-,1,Clever ,-
+194,Destiny Bond ,Status ,5,-,8,Clever ,-
+195,Perish Song ,Status ,5,-,1,Beautiful ,-
+196,Icy Wind ,Special ,15,95,15,Beautiful ,55
+197,Detect ,Status ,5,-,2,Cool ,-
+198,Bone Rush ,Physical ,10,90,5,Tough ,25
+199,Lock-On ,Status ,5,-,1,Clever ,-
+200,Outrage ,Physical ,10,100,16,Cool ,120
+201,Sandstorm ,Status ,10,-,6,Tough ,-
+202,Giga Drain ,Special ,10,100,12,Clever ,75
+203,Endure ,Status ,10,-,1,Tough ,-
+204,Charm ,Status ,20,100,18,Cute ,-
+205,Rollout ,Physical ,20,90,6,Cute ,30
+206,False Swipe ,Physical ,40,100,1,Cool ,40
+207,Swagger ,Status ,15,85,1,Cute ,-
+208,Milk Drink ,Status ,10,-,1,Cute ,-
+209,Spark ,Physical ,20,100,13,Cool ,65
+210,Fury Cutter ,Physical ,20,95,7,Cool ,40
+211,Steel Wing ,Physical ,25,90,9,Cool ,70
+212,Mean Look ,Status ,5,-,1,Beautiful ,-
+213,Attract ,Status ,15,100,1,Cute ,-
+214,Sleep Talk ,Status ,10,-,1,Cute ,-
+215,Heal Bell ,Status ,5,-,1,Beautiful ,-
+216,Return ,Physical ,20,100,1,Cute ,Variable
+217,Present ,Physical ,15,90,1,Cute ,Variable
+218,Frustration ,Physical ,20,100,1,Cute ,Variable
+219,Safeguard ,Status ,25,-,1,Beautiful ,-
+220,Pain Split ,Status ,20,-,1,Clever ,-
+221,Sacred Fire ,Physical ,5,95,10,Beautiful ,100
+222,Magnitude ,Physical ,30,100,5,Tough ,Variable
+223,Dynamic Punch ,Physical ,5,50,2,Cool ,100
+224,Megahorn ,Physical ,10,85,7,Cool ,120
+225,Dragon Breath ,Special ,20,100,16,Cool ,60
+226,Baton Pass ,Status ,40,-,1,Cute ,-
+227,Encore ,Status ,5,100,1,Cute ,-
+228,Pursuit ,Physical ,20,100,17,Clever ,40
+229,Rapid Spin ,Physical ,40,100,1,Cool ,20
+230,Sweet Scent ,Status ,20,100,1,Cute ,-
+231,Iron Tail ,Physical ,15,75,9,Cool ,100
+232,Metal Claw ,Physical ,35,95,9,Cool ,50
+233,Vital Throw ,Physical ,10,Always,2,Cool ,70
+234,Morning Sun ,Status ,5,-,1,Beautiful ,-
+235,Synthesis ,Status ,5,-,12,Clever ,-
+236,Moonlight ,Status ,5,-,18,Beautiful ,-
+237,Hidden Power ,Special ,15,100,1,Clever ,60
+238,Cross Chop ,Physical ,5,80,2,Cool ,100
+239,Twister ,Special ,20,100,16,Cool ,40
+240,Rain Dance ,Status ,5,-,11,Beautiful ,-
+241,Sunny Day ,Status ,5,-,10,Beautiful ,-
+242,Crunch ,Physical ,15,100,17,Tough ,80
+243,Mirror Coat ,Special ,20,100,14,Beautiful ,Variable
+244,Psych Up ,Status ,10,-,1,Clever ,-
+245,Extreme Speed ,Physical ,5,100,1,Cool ,80
+246,Ancient Power ,Special ,5,100,6,Tough ,60
+247,Shadow Ball ,Special ,15,100,8,Clever ,80
+248,Future Sight ,Special ,10,100,14,Clever ,120
+249,Rock Smash ,Physical ,15,100,2,Tough ,40
+250,Whirlpool ,Special ,15,85,11,Beautiful ,35
+251,Beat Up ,Physical ,10,100,17,Clever ,Variable
+252,Fake Out ,Physical ,10,100,1,Cute ,40
+253,Uproar ,Special ,10,100,1,Cute ,90
+254,Stockpile ,Status ,20,-,1,Tough ,-
+255,Spit Up ,Special ,10,100,1,Tough ,Variable
+256,Swallow ,Status ,10,-,1,Tough ,-
+257,Heat Wave ,Special ,10,90,10,Beautiful ,95
+258,Hail ,Status ,10,-,15,Beautiful ,-
+259,Torment ,Status ,15,100,17,Tough ,-
+260,Flatter ,Status ,15,100,17,Clever ,-
+261,Will-O-Wisp ,Status ,15,85,10,Beautiful ,-
+262,Memento ,Status ,10,100,17,Tough ,-
+263,Facade ,Physical ,20,100,1,Cute ,70
+264,Focus Punch ,Physical ,20,100,2,Tough ,150
+265,Smelling Salts ,Physical ,10,100,1,Tough ,70
+266,Follow Me ,Status ,20,-,1,Cute ,-
+267,Nature Power ,Status ,20,-,1,Beautiful ,-
+268,Charge ,Status ,20,-,13,Clever ,-
+269,Taunt ,Status ,20,100,17,Clever ,-
+270,Helping Hand ,Status ,20,-,1,Clever ,-
+271,Trick ,Status ,10,100,14,Clever ,-
+272,Role Play ,Status ,10,-,14,Cute ,-
+273,Wish ,Status ,10,-,1,Cute ,-
+274,Assist ,Status ,20,-,1,Cute ,-
+275,Ingrain ,Status ,20,-,12,Clever ,-
+276,Superpower ,Physical ,5,100,2,Tough ,120
+277,Magic Coat ,Status ,15,-,14,Beautiful ,-
+278,Recycle ,Status ,10,-,1,Clever ,-
+279,Revenge ,Physical ,10,100,2,Tough ,60
+280,Brick Break ,Physical ,15,100,2,Cool ,75
+281,Yawn ,Status ,10,-,1,Cute ,-
+282,Knock Off ,Physical ,20,100,17,Clever ,65
+283,Endeavor ,Physical ,5,100,1,Tough ,Variable
+284,Eruption ,Special ,5,100,10,Beautiful ,150
+285,Skill Swap ,Status ,10,-,14,Clever ,-
+286,Imprison ,Status ,10,-,14,Clever ,-
+287,Refresh ,Status ,20,-,1,Cute ,-
+288,Grudge ,Status ,5,-,8,Tough ,-
+289,Snatch ,Status ,10,-,17,Clever ,-
+290,Secret Power ,Physical ,20,100,1,Clever ,70
+291,Dive ,Physical ,10,100,11,Beautiful ,80
+292,Arm Thrust ,Physical ,20,100,2,Tough ,15
+293,Camouflage ,Status ,20,-,1,Clever ,-
+294,Tail Glow ,Status ,20,-,7,Beautiful ,-
+295,Luster Purge ,Special ,5,100,14,Clever ,70
+296,Mist Ball ,Special ,5,100,14,Clever ,70
+297,Feather Dance ,Status ,15,100,3,Beautiful ,-
+298,Teeter Dance ,Status ,20,100,1,Cute ,-
+299,Blaze Kick ,Physical ,10,90,10,Cool ,85
+300,Mud Sport ,Status ,15,-,5,Cute ,-
+301,Ice Ball ,Physical ,20,90,15,Beautiful ,30
+302,Needle Arm ,Physical ,15,100,12,Clever ,60
+303,Slack Off ,Status ,10,-,1,Cute ,-
+304,Hyper Voice ,Special ,10,100,1,Cool ,90
+305,Poison Fang ,Physical ,15,100,4,Clever ,50
+306,Crush Claw ,Physical ,10,95,1,Cool ,75
+307,Blast Burn ,Special ,5,90,10,Beautiful ,150
+308,Hydro Cannon ,Special ,5,90,11,Beautiful ,150
+309,Meteor Mash ,Physical ,10,90,9,Cool ,90
+310,Astonish ,Physical ,15,100,8,Cute ,30
+311,Weather Ball ,Special ,10,100,1,Beautiful ,50
+312,Aromatherapy ,Status ,5,-,12,Clever ,-
+313,Fake Tears ,Status ,20,100,17,Cute ,-
+314,Air Cutter ,Special ,25,95,3,Cool ,60
+315,Overheat ,Special ,5,90,10,Beautiful ,130
+316,Odor Sleuth ,Status ,40,-,1,Clever ,-
+317,Rock Tomb ,Physical ,15,95,6,Clever ,60
+318,Silver Wind ,Special ,5,100,7,Beautiful ,60
+319,Metal Sound ,Status ,40,85,9,Clever ,-
+320,Grass Whistle ,Status ,15,55,12,Clever ,-
+321,Tickle ,Status ,20,100,1,Cute ,-
+322,Cosmic Power ,Status ,20,-,14,Beautiful ,-
+323,Water Spout ,Special ,5,100,11,Beautiful ,150
+324,Signal Beam ,Special ,15,100,7,Beautiful ,75
+325,Shadow Punch ,Physical ,20,Always,8,Clever ,60
+326,Extrasensory ,Special ,20,100,14,Cool ,80
+327,Sky Uppercut ,Physical ,15,90,2,Cool ,85
+328,Sand Tomb ,Physical ,15,85,5,Clever ,35
+329,Sheer Cold ,Special ,5,30,15,Beautiful ,OHKO
+330,Muddy Water ,Special ,10,85,11,Tough ,90
+331,Bullet Seed ,Physical ,30,100,12,Cool ,25
+332,Aerial Ace ,Physical ,20,Always,3,Cool ,60
+333,Icicle Spear ,Physical ,30,100,15,Beautiful ,25
+334,Iron Defense ,Status ,15,-,9,Tough ,-
+335,Block ,Status ,5,-,1,Cute ,-
+336,Howl ,Status ,40,-,1,Cool ,-
+337,Dragon Claw ,Physical ,15,100,16,Cool ,80
+338,Frenzy Plant ,Special ,5,90,12,Cool ,150
+339,Bulk Up ,Status ,20,-,2,Cool ,-
+340,Bounce ,Physical ,5,85,3,Cute ,85
+341,Mud Shot ,Special ,15,95,5,Tough ,55
+342,Poison Tail ,Physical ,25,100,4,Clever ,50
+343,Covet ,Physical ,25,100,1,Cute ,60
+344,Volt Tackle ,Physical ,15,100,13,Cool ,120
+345,Magical Leaf ,Special ,20,Always,12,Beautiful ,60
+346,Water Sport ,Status ,15,-,11,Cute ,-
+347,Calm Mind ,Status ,20,-,14,Clever ,-
+348,Leaf Blade ,Physical ,15,100,12,Cool ,90
+349,Dragon Dance ,Status ,20,-,16,Cool ,-
+350,Rock Blast ,Physical ,10,90,6,Tough ,25
+351,Shock Wave ,Special ,20,Always,13,Cool ,60
+352,Water Pulse ,Special ,20,100,11,Beautiful ,60
+353,Doom Desire ,Special ,5,100,9,Beautiful ,140
+354,Psycho Boost ,Special ,5,90,14,Clever ,140
+355,Roost ,Status ,10,-,3,Clever ,-
+356,Gravity ,Status ,5,-,14,Clever ,-
+357,Miracle Eye ,Status ,40,-,14,Clever ,-
+358,Wake-Up Slap ,Physical ,10,100,2,Tough ,70
+359,Hammer Arm ,Physical ,10,90,2,Tough ,100
+360,Gyro Ball ,Physical ,5,100,9,Cool ,Variable
+361,Healing Wish ,Status ,10,-,14,Beautiful ,-
+362,Brine ,Special ,10,100,11,Tough ,65
+363,Natural Gift ,Physical ,15,100,1,Clever ,Variable
+364,Feint ,Physical ,10,100,1,Clever ,30
+365,Pluck ,Physical ,20,100,3,Cute ,60
+366,Tailwind ,Status ,15,-,3,Cool ,-
+367,Acupressure ,Status ,30,-,1,Tough ,-
+368,Metal Burst ,Physical ,10,100,9,Cool ,Variable
+369,U-turn ,Physical ,20,100,7,Cute ,70
+370,Close Combat ,Physical ,5,100,2,Tough ,120
+371,Payback ,Physical ,10,100,17,Tough ,50
+372,Assurance ,Physical ,10,100,17,Clever ,60
+373,Embargo ,Status ,15,100,17,Clever ,-
+374,Fling ,Physical ,10,100,17,Cute ,Variable
+375,Psycho Shift ,Status ,10,100,14,Clever ,-
+376,Trump Card ,Special ,5,Always,1,Cool ,Variable
+377,Heal Block ,Status ,15,100,14,Clever ,-
+378,Wring Out ,Special ,5,100,1,Tough ,Variable
+379,Power Trick ,Status ,10,-,14,Clever ,-
+380,Gastro Acid ,Status ,10,100,4,Tough ,-
+381,Lucky Chant ,Status ,30,-,1,Cute ,-
+382,Me First ,Status ,20,-,1,Clever ,-
+383,Copycat ,Status ,20,-,1,Cute ,-
+384,Power Swap ,Status ,10,-,14,Clever ,-
+385,Guard Swap ,Status ,10,-,14,Clever ,-
+386,Punishment ,Physical ,5,100,17,Cool ,Variable
+387,Last Resort ,Physical ,5,100,1,Cute ,140
+388,Worry Seed ,Status ,10,100,12,Clever ,-
+389,Sucker Punch ,Physical ,5,100,17,Clever ,70
+390,Toxic Spikes ,Status ,20,-,4,Clever ,-
+391,Heart Swap ,Status ,10,-,14,Clever ,-
+392,Aqua Ring ,Status ,20,-,11,Beautiful ,-
+393,Magnet Rise ,Status ,10,-,13,Clever ,-
+394,Flare Blitz ,Physical ,15,100,10,Cool ,120
+395,Force Palm ,Physical ,10,100,2,Cool ,60
+396,Aura Sphere ,Special ,20,Always,2,Beautiful ,80
+397,Rock Polish ,Status ,20,-,6,Tough ,-
+398,Poison Jab ,Physical ,20,100,4,Tough ,80
+399,Dark Pulse ,Special ,15,100,17,Cool ,80
+400,Night Slash ,Physical ,15,100,17,Cool ,70
+401,Aqua Tail ,Physical ,10,90,11,Beautiful ,90
+402,Seed Bomb ,Physical ,15,100,12,Tough ,80
+403,Air Slash ,Special ,15,95,3,Cool ,75
+404,X-Scissor ,Physical ,15,100,7,Cool ,80
+405,Bug Buzz ,Special ,10,100,7,Beautiful ,90
+406,Dragon Pulse ,Special ,10,100,16,Beautiful ,85
+407,Dragon Rush ,Physical ,10,75,16,Tough ,100
+408,Power Gem ,Special ,20,100,6,Beautiful ,80
+409,Drain Punch ,Physical ,10,100,2,Tough ,75
+410,Vacuum Wave ,Special ,30,100,2,Cool ,40
+411,Focus Blast ,Special ,5,70,2,Cool ,120
+412,Energy Ball ,Special ,10,100,12,Beautiful ,90
+413,Brave Bird ,Physical ,15,100,3,Cool ,120
+414,Earth Power ,Special ,10,100,5,Beautiful ,90
+415,Switcheroo ,Status ,10,100,17,Clever ,-
+416,Giga Impact ,Physical ,5,90,1,Tough ,150
+417,Nasty Plot ,Status ,20,-,17,Clever ,-
+418,Bullet Punch ,Physical ,30,100,9,Tough ,40
+419,Avalanche ,Physical ,10,100,15,Beautiful ,60
+420,Ice Shard ,Physical ,30,100,15,Beautiful ,40
+421,Shadow Claw ,Physical ,15,100,8,Cool ,70
+422,Thunder Fang ,Physical ,15,95,13,Cool ,65
+423,Ice Fang ,Physical ,15,95,15,Cool ,65
+424,Fire Fang ,Physical ,15,95,10,Cool ,65
+425,Shadow Sneak ,Physical ,30,100,8,Clever ,40
+426,Mud Bomb ,Special ,10,85,5,Cute ,65
+427,Psycho Cut ,Physical ,20,100,14,Cool ,70
+428,Zen Headbutt ,Physical ,15,90,14,Clever ,80
+429,Mirror Shot ,Special ,10,85,9,Beautiful ,65
+430,Flash Cannon ,Special ,10,100,9,Beautiful ,80
+431,Rock Climb ,Physical ,20,85,1,Tough ,90
+432,Defog ,Status ,15,-,3,Cool ,-
+433,Trick Room ,Status ,5,-,14,Clever ,-
+434,Draco Meteor ,Special ,5,90,16,Beautiful ,130
+435,Discharge ,Special ,15,100,13,Beautiful ,80
+436,Lava Plume ,Special ,15,100,10,Tough ,80
+437,Leaf Storm ,Special ,5,90,12,Beautiful ,130
+438,Power Whip ,Physical ,10,85,12,Tough ,120
+439,Rock Wrecker ,Physical ,5,90,6,Tough ,150
+440,Cross Poison ,Physical ,20,100,4,Cool ,70
+441,Gunk Shot ,Physical ,5,80,4,Tough ,120
+442,Iron Head ,Physical ,15,100,9,Tough ,80
+443,Magnet Bomb ,Physical ,20,Always,9,Cool ,60
+444,Stone Edge ,Physical ,5,80,6,Tough ,100
+445,Captivate ,Status ,20,100,1,Cute ,-
+446,Stealth Rock ,Status ,20,-,6,Cool ,-
+447,Grass Knot ,Special ,20,100,12,Cute ,Variable
+448,Chatter ,Special ,20,100,3,Cute ,65
+449,Judgment ,Special ,10,100,1,Beautiful ,100
+450,Bug Bite ,Physical ,20,100,7,Cute ,60
+451,Charge Beam ,Special ,10,90,13,Beautiful ,50
+452,Wood Hammer ,Physical ,15,100,12,Tough ,120
+453,Aqua Jet ,Physical ,20,100,11,Cool ,40
+454,Attack Order ,Physical ,15,100,7,Clever ,90
+455,Defend Order ,Status ,10,-,7,Clever ,-
+456,Heal Order ,Status ,10,-,7,Clever ,-
+457,Head Smash ,Physical ,5,80,6,Tough ,150
+458,Double Hit ,Physical ,10,90,1,Cool ,35
+459,Roar of Time ,Special ,5,90,16,Beautiful ,150
+460,Spacial Rend ,Special ,5,95,16,Beautiful ,100
+461,Lunar Dance ,Status ,10,-,14,Beautiful ,-
+462,Crush Grip ,Physical ,5,100,1,Tough ,Variable
+463,Magma Storm ,Special ,5,75,10,Tough ,100
+464,Dark Void ,Status ,10,50,17,Clever ,-
+465,Seed Flare ,Special ,5,85,12,Beautiful ,120
+466,Ominous Wind ,Special ,5,100,8,Beautiful ,60
+467,Shadow Force ,Physical ,5,100,8,Cool ,120
+468,Hone Claws ,Status ,15,-,17,Cute ,-
+469,Wide Guard ,Status ,10,-,6,Tough ,-
+470,Guard Split ,Status ,10,-,14,Clever ,-
+471,Power Split ,Status ,10,-,14,Clever ,-
+472,Wonder Room ,Status ,10,-,14,Clever ,-
+473,Psyshock ,Special ,10,100,14,Beautiful ,80
+474,Venoshock ,Special ,10,100,4,Beautiful ,65
+475,Autotomize ,Status ,15,-,9,Beautiful ,-
+476,Rage Powder ,Status ,20,-,7,Clever ,-
+477,Telekinesis ,Status ,15,-,14,Clever ,-
+478,Magic Room ,Status ,10,-,14,Clever ,-
+479,Smack Down ,Physical ,15,100,6,Tough ,50
+480,Storm Throw ,Physical ,10,100,2,Cool ,60
+481,Flame Burst ,Special ,15,100,10,Beautiful ,70
+482,Sludge Wave ,Special ,10,100,4,Tough ,95
+483,Quiver Dance ,Status ,20,-,7,Beautiful ,-
+484,Heavy Slam ,Physical ,10,100,9,Tough ,Variable
+485,Synchronoise ,Special ,10,100,14,Clever ,120
+486,Electro Ball ,Special ,10,100,13,Cool ,Variable
+487,Soak ,Status ,20,100,11,Cute ,-
+488,Flame Charge ,Physical ,20,100,10,Cool ,50
+489,Coil ,Status ,20,-,4,Tough ,-
+490,Low Sweep ,Physical ,20,100,2,Clever ,65
+491,Acid Spray ,Special ,20,100,4,Beautiful ,40
+492,Foul Play ,Physical ,15,100,17,Clever ,95
+493,Simple Beam ,Status ,15,100,1,Cute ,-
+494,Entrainment ,Status ,15,100,1,Cute ,-
+495,After You ,Status ,15,-,1,Cute ,-
+496,Round ,Special ,15,100,1,Beautiful ,60
+497,Echoed Voice ,Special ,15,100,1,Beautiful ,40
+498,Chip Away ,Physical ,20,100,1,Tough ,70
+499,Clear Smog ,Special ,15,Always,4,Beautiful ,50
+500,Stored Power ,Special ,10,100,14,Clever ,20
+501,Quick Guard ,Status ,15,-,2,Cool ,-
+502,Ally Switch ,Status ,15,-,14,Clever ,-
+503,Scald ,Special ,15,100,11,Tough ,80
+504,Shell Smash ,Status ,15,-,1,Tough ,-
+505,Heal Pulse ,Status ,10,-,14,Beautiful ,-
+506,Hex ,Special ,10,100,8,Clever ,65
+507,Sky Drop ,Physical ,10,100,3,Tough ,60
+508,Shift Gear ,Status ,10,-,9,Clever ,-
+509,Circle Throw ,Physical ,10,90,2,Cool ,60
+510,Incinerate ,Special ,15,100,10,Tough ,60
+511,Quash ,Status ,15,100,17,Clever ,-
+512,Acrobatics ,Physical ,15,100,3,Cool ,55
+513,Reflect Type ,Status ,15,-,1,Clever ,-
+514,Retaliate ,Physical ,5,100,1,Cool ,70
+515,Final Gambit ,Special ,5,100,2,Tough ,Variable
+516,Bestow ,Status ,15,-,1,Cute ,-
+517,Inferno ,Special ,5,50,10,Beautiful ,100
+518,Water Pledge ,Special ,10,100,11,Beautiful ,80
+519,Fire Pledge ,Special ,10,100,10,Beautiful ,80
+520,Grass Pledge ,Special ,10,100,12,Beautiful ,80
+521,Volt Switch ,Special ,20,100,13,Cool ,70
+522,Struggle Bug ,Special ,20,100,7,Cute ,50
+523,Bulldoze ,Physical ,20,100,5,Tough ,60
+524,Frost Breath ,Special ,10,90,15,Beautiful ,60
+525,Dragon Tail ,Physical ,10,90,16,Tough ,60
+526,Work Up ,Status ,30,-,1,Tough ,-
+527,Electroweb ,Special ,15,95,13,Beautiful ,55
+528,Wild Charge ,Physical ,15,100,13,Tough ,90
+529,Drill Run ,Physical ,10,95,5,Tough ,80
+530,Dual Chop ,Physical ,15,90,16,Tough ,40
+531,Heart Stamp ,Physical ,25,100,14,Cute ,60
+532,Horn Leech ,Physical ,10,100,12,Tough ,75
+533,Sacred Sword ,Physical ,15,100,2,Cool ,90
+534,Razor Shell ,Physical ,10,95,11,Cool ,75
+535,Heat Crash ,Physical ,10,100,10,Tough ,Variable
+536,Leaf Tornado ,Special ,10,90,12,Cool ,65
+537,Steamroller ,Physical ,20,100,7,Tough ,65
+538,Cotton Guard ,Status ,10,-,12,Cute ,-
+539,Night Daze ,Special ,10,95,17,Cool ,85
+540,Psystrike ,Special ,10,100,14,Cool ,100
+541,Tail Slap ,Physical ,10,85,1,Cute ,25
+542,Hurricane ,Special ,10,70,3,Tough ,110
+543,Head Charge ,Physical ,15,100,1,Tough ,120
+544,Gear Grind ,Physical ,15,85,9,Clever ,50
+545,Searing Shot ,Special ,5,100,10,Cool ,100
+546,Techno Blast ,Special ,5,100,1,Cool ,120
+547,Relic Song ,Special ,10,100,1,Beautiful ,75
+548,Secret Sword ,Special ,10,100,2,Beautiful ,85
+549,Glaciate ,Special ,10,95,15,Beautiful ,65
+550,Bolt Strike ,Physical ,5,85,13,Beautiful ,130
+551,Blue Flare ,Special ,5,85,10,Beautiful ,130
+552,Fiery Dance ,Special ,10,100,10,Beautiful ,80
+553,Freeze Shock ,Physical ,5,90,15,Beautiful ,140
+554,Ice Burn ,Special ,5,90,15,Beautiful ,140
+555,Snarl ,Special ,15,95,17,Tough ,55
+556,Icicle Crash ,Physical ,10,90,15,Beautiful ,85
+557,V-create ,Physical ,5,95,10,Cool ,180
+558,Fusion Flare ,Special ,5,100,10,Beautiful ,100
+559,Fusion Bolt ,Physical ,5,100,13,Cool ,100
+560,Flying Press ,Physical ,10,95,2,Tough ,100
+561,Mat Block ,Status ,10,-,2,Cool ,-
+562,Belch ,Special ,10,90,4,Tough ,120
+563,Rototiller ,Status ,10,-,5,Tough ,-
+564,Sticky Web ,Status ,20,-,7,Tough ,-
+565,Fell Stinger ,Physical ,25,100,7,Cool ,50
+566,Phantom Force ,Physical ,10,100,8,Cool ,90
+567,Trick-or-Treat ,Status ,20,100,8,Cute ,-
+568,Noble Roar ,Status ,30,100,1,Tough ,-
+569,Ion Deluge ,Status ,25,-,13,Beautiful ,-
+570,Parabolic Charge ,Special ,20,100,13,Clever ,65
+571,Forest's Curse ,Status ,20,100,12,Clever ,-
+572,Petal Blizzard ,Physical ,15,100,12,Beautiful ,90
+573,Freeze-Dry ,Special ,20,100,15,Beautiful ,70
+574,Disarming Voice ,Special ,15,Always,18,Cute ,40
+575,Parting Shot ,Status ,20,100,17,Cool ,-
+576,Topsy-Turvy ,Status ,20,-,17,Clever ,-
+577,Draining Kiss ,Special ,10,100,18,Cute ,50
+578,Crafty Shield ,Status ,10,-,18,Clever ,-
+579,Flower Shield ,Status ,10,-,18,Beautiful ,-
+580,Grassy Terrain ,Status ,10,-,12,Beautiful ,-
+581,Misty Terrain ,Status ,10,-,18,Beautiful ,-
+582,Electrify ,Status ,20,-,13,Clever ,-
+583,Play Rough ,Physical ,10,90,18,Cute ,90
+584,Fairy Wind ,Special ,30,100,18,Beautiful ,40
+585,Moonblast ,Special ,15,100,18,Beautiful ,95
+586,Boomburst ,Special ,10,100,1,Tough ,140
+587,Fairy Lock ,Status ,10,-,18,Clever ,-
+588,King's Shield ,Status ,10,-,9,Cool ,-
+589,Play Nice ,Status ,20,-,1,Cute ,-
+590,Confide ,Status ,20,-,1,Cute ,-
+591,Diamond Storm ,Physical ,5,95,6,Beautiful ,100
+592,Steam Eruption ,Special ,5,95,11,Beautiful ,110
+593,Hyperspace Hole ,Special ,5,-,14,Clever ,80
+594,Water Shuriken ,Special ,20,100,11,Cool ,15
+595,Mystical Fire ,Special ,10,100,10,Beautiful ,75
+596,Spiky Shield ,Status ,10,-,12,Tough ,-
+597,Aromatic Mist ,Status ,20,-,18,Beautiful ,-
+598,Eerie Impulse ,Status ,15,100,13,Clever ,-
+599,Venom Drench ,Status ,20,100,4,Clever ,-
+600,Powder ,Status ,20,100,7,Clever ,-
+601,Geomancy ,Status ,10,-,18,Beautiful ,-
+602,Magnetic Flux ,Status ,20,-,13,Clever ,-
+603,Happy Hour ,Status ,30,-,1,Cute ,-
+604,Electric Terrain ,Status ,10,-,13,Clever ,-
+605,Dazzling Gleam ,Special ,10,100,18,Beautiful ,80
+606,Celebrate ,Status ,40,-,1,Cute ,-
+607,Hold Hands ,Status ,40,-,1,Cute ,-
+608,Baby-Doll Eyes ,Status ,30,100,18,Cute ,-
+609,Nuzzle ,Physical ,20,100,13,Cute ,20
+610,Hold Back ,Physical ,40,100,1,Cool ,40
+611,Infestation ,Special ,20,100,7,Cute ,20
+612,Power-Up Punch ,Physical ,20,100,2,Tough ,40
+613,Oblivion Wing ,Special ,10,100,3,Cool ,80
+614,Thousand Arrows ,Physical ,10,100,5,Beautiful ,90
+615,Thousand Waves ,Physical ,10,100,5,Tough ,90
+616,Land's Wrath ,Physical ,10,100,5,Beautiful ,90
+617,Light of Ruin ,Special ,5,90,18,Beautiful ,140
+618,Origin Pulse ,Special ,10,85,11,Beautiful ,110
+619,Precipice Blades ,Physical ,10,85,5,Cool ,120
+620,Dragon Ascent ,Physical ,5,100,3,Beautiful ,120
+621,Hyperspace Fury ,Physical ,5,-,17,Tough ,100

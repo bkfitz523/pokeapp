@@ -4,6 +4,7 @@ from django.db import models
 
 
 class Type(models.Model):
+    NONE = '-'
     NORMAL = 'Normal'
     FIGHTING = 'Fighting'
     FLYING = 'Flying'
@@ -24,6 +25,7 @@ class Type(models.Model):
     FAIRY = 'Fairy'
 
     TYPE_CHOICES = (
+        (NONE, '-'),
         (NORMAL, 'Normal'),
         (FIGHTING, 'Fighting'),
         (FLYING, 'Flying'),
@@ -96,3 +98,42 @@ class Pokemon(models.Model):
 
     def __str__(self):
         return self.name
+
+
+class Move(models.Model):
+    id = models.IntegerField(primary_key=True)
+    name = models.CharField(max_length=50)
+    type = models.ForeignKey(Type, default=1, on_delete=models.DO_NOTHING)
+    category = models.CharField(max_length=50, default='Physical')
+    contest = models.CharField(max_length=50, default='Cool')
+    power = models.CharField(max_length=50, default='20')
+    power_points = models.IntegerField()
+    accuracy = models.CharField(max_length=50, default='100')
+
+
+class Stat(models.Model):
+    NONE = '-'
+    HP = 'HP'
+    ATTACK = 'Attack'
+    DEFENSE = 'Defense'
+    SPECIAL_ATTACK = 'Special Attack'
+    SPECIAL_DEFENSE = 'Special Defense'
+    SPEED = 'Speed'
+
+    STAT_CHOICES = (
+        (NONE, '-'),
+        (HP, 'HP'),
+        (ATTACK, 'Attack'),
+        (DEFENSE, 'Defense'),
+        (SPECIAL_ATTACK, 'Special Attack'),
+        (SPECIAL_DEFENSE, 'Special Defense'),
+        (SPEED, 'Speed')
+    )
+
+    id = models.IntegerField(primary_key=True)
+    name = models.CharField(max_length=64, choices=STAT_CHOICES, default=HP)
+
+    def __str__(self):
+        return self.name
+
+# TODO: Flavor table

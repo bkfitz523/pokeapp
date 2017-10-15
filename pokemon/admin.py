@@ -1,5 +1,5 @@
 from django.contrib import admin
-from pokemon.models import Type, Region, Nature
+from pokemon.models import Type, Region, Nature, Stat, Move
 from pokemon.models import Pokemon
 
 # Register your models here.
@@ -44,3 +44,25 @@ class PokemonAdmin(admin.ModelAdmin):
     ordering = ('id',)
 
 admin.site.register(Pokemon, PokemonAdmin)
+
+
+class MoveAdmin(admin.ModelAdmin):
+    list_display = (
+        'id',
+        'name',
+        'type',
+        'category',
+        'contest',
+        'power',
+        'power_points',
+        'accuracy'
+    )
+
+admin.site.register(Move, MoveAdmin)
+
+
+class StatAdmin(admin.ModelAdmin):
+    list_display = ('id', 'name')
+    ordering = ('id',)
+
+admin.site.register(Stat, StatAdmin)
