@@ -25,7 +25,7 @@
 			"type_secondary": 4,
 			"region": 1
 		}
-	},{
+	}, {
 		"model": "pokemon.pokemon",
 		"pk": 4,
 		"fields": {
@@ -33,6 +33,7188 @@
 			"type_primary": 10,
 			"type_secondary": 0,
 			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 5,
+		"fields": {
+			"name": "Charmeleon",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 6,
+		"fields": {
+			"name": "Charizard",
+			"type_primary": 10,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 7,
+		"fields": {
+			"name": "Squirtle",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 8,
+		"fields": {
+			"name": "Wartortle",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 9,
+		"fields": {
+			"name": "Blastoise",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 10,
+		"fields": {
+			"name": "Caterpie",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 11,
+		"fields": {
+			"name": "Metapod",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 12,
+		"fields": {
+			"name": "Butterfree",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 13,
+		"fields": {
+			"name": "Weedle",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 14,
+		"fields": {
+			"name": "Kakuna",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 15,
+		"fields": {
+			"name": "Beedrill",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 16,
+		"fields": {
+			"name": "Pidgey",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 17,
+		"fields": {
+			"name": "Pidgeotto",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 18,
+		"fields": {
+			"name": "Pidgeot",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 19,
+		"fields": {
+			"name": "Rattata",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 20,
+		"fields": {
+			"name": "Raticate",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 21,
+		"fields": {
+			"name": "Spearow",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 22,
+		"fields": {
+			"name": "Fearow",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 23,
+		"fields": {
+			"name": "Ekans",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 24,
+		"fields": {
+			"name": "Arbok",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 25,
+		"fields": {
+			"name": "Pikachu",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 26,
+		"fields": {
+			"name": "Raichu",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 27,
+		"fields": {
+			"name": "Sandshrew",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 28,
+		"fields": {
+			"name": "Sandslash",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 29,
+		"fields": {
+			"name": "Nidoran",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 30,
+		"fields": {
+			"name": "Nidorina",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 31,
+		"fields": {
+			"name": "Nidoqueen",
+			"type_primary": 4,
+			"type_secondary": 5,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 32,
+		"fields": {
+			"name": "Nidoran",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 33,
+		"fields": {
+			"name": "Nidorino",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 34,
+		"fields": {
+			"name": "Nidoking",
+			"type_primary": 4,
+			"type_secondary": 5,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 35,
+		"fields": {
+			"name": "Clefairy",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 36,
+		"fields": {
+			"name": "Clefable",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 37,
+		"fields": {
+			"name": "Vuplix",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 38,
+		"fields": {
+			"name": "Ninetales",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 39,
+		"fields": {
+			"name": "Jigglypuff",
+			"type_primary": 1,
+			"type_secondary": 18,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 40,
+		"fields": {
+			"name": "WigglyTuff",
+			"type_primary": 1,
+			"type_secondary": 18,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 41,
+		"fields": {
+			"name": "Zubat",
+			"type_primary": 4,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 42,
+		"fields": {
+			"name": "Golbat",
+			"type_primary": 4,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 43,
+		"fields": {
+			"name": "Oddish",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 44,
+		"fields": {
+			"name": "Gloom",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 45,
+		"fields": {
+			"name": "Vileplume",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 46,
+		"fields": {
+			"name": "Paras",
+			"type_primary": 7,
+			"type_secondary": 12,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 47,
+		"fields": {
+			"name": "Parasect",
+			"type_primary": 7,
+			"type_secondary": 12,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 48,
+		"fields": {
+			"name": "Venonat",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 49,
+		"fields": {
+			"name": "Venomoth",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 50,
+		"fields": {
+			"name": "Diglett",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 51,
+		"fields": {
+			"name": "Dugtrio",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 52,
+		"fields": {
+			"name": "Meowth",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 53,
+		"fields": {
+			"name": "Persian",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 54,
+		"fields": {
+			"name": "Psyduck",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 55,
+		"fields": {
+			"name": "Golduck",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 56,
+		"fields": {
+			"name": "Mankey",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 57,
+		"fields": {
+			"name": "Primeape",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 58,
+		"fields": {
+			"name": "Growlithe",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 59,
+		"fields": {
+			"name": "Arcanine",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 60,
+		"fields": {
+			"name": "Poliwag",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 61,
+		"fields": {
+			"name": "Poliwhirl",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 62,
+		"fields": {
+			"name": "Poliwrath",
+			"type_primary": 11,
+			"type_secondary": 2,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 63,
+		"fields": {
+			"name": "Abra",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 64,
+		"fields": {
+			"name": "Kadabra",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 65,
+		"fields": {
+			"name": "Alakazam",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 66,
+		"fields": {
+			"name": "Machop",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 67,
+		"fields": {
+			"name": "Machoke",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 68,
+		"fields": {
+			"name": "Machamp",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 69,
+		"fields": {
+			"name": "Bellsprout",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 70,
+		"fields": {
+			"name": "Weepinbell",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 71,
+		"fields": {
+			"name": "Victreebel",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 72,
+		"fields": {
+			"name": "Tentacool",
+			"type_primary": 11,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 73,
+		"fields": {
+			"name": "Tentacruel",
+			"type_primary": 11,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 74,
+		"fields": {
+			"name": "Geodude",
+			"type_primary": 6,
+			"type_secondary": 5,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 75,
+		"fields": {
+			"name": "Graveler",
+			"type_primary": 6,
+			"type_secondary": 5,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 76,
+		"fields": {
+			"name": "Golem",
+			"type_primary": 6,
+			"type_secondary": 5,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 77,
+		"fields": {
+			"name": "Ponyta",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 78,
+		"fields": {
+			"name": "Rapidash",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 79,
+		"fields": {
+			"name": "Slowpoke",
+			"type_primary": 11,
+			"type_secondary": 14,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 80,
+		"fields": {
+			"name": "Slowbro",
+			"type_primary": 11,
+			"type_secondary": 14,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 81,
+		"fields": {
+			"name": "Magnemite",
+			"type_primary": 13,
+			"type_secondary": 9,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 82,
+		"fields": {
+			"name": "Magneton",
+			"type_primary": 13,
+			"type_secondary": 9,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 83,
+		"fields": {
+			"name": "Farfetch'd",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 84,
+		"fields": {
+			"name": "Doduo",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 85,
+		"fields": {
+			"name": "Dodrio",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 86,
+		"fields": {
+			"name": "Seel",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 87,
+		"fields": {
+			"name": "Dewgong",
+			"type_primary": 11,
+			"type_secondary": 15,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 88,
+		"fields": {
+			"name": "Grimer",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 89,
+		"fields": {
+			"name": "Muk",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 90,
+		"fields": {
+			"name": "Shellder",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 91,
+		"fields": {
+			"name": "Cloyster",
+			"type_primary": 11,
+			"type_secondary": 15,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 92,
+		"fields": {
+			"name": "Gastly",
+			"type_primary": 8,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 93,
+		"fields": {
+			"name": "Haunter",
+			"type_primary": 8,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 94,
+		"fields": {
+			"name": "Gengar",
+			"type_primary": 8,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 95,
+		"fields": {
+			"name": "Onix",
+			"type_primary": 6,
+			"type_secondary": 5,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 96,
+		"fields": {
+			"name": "Drowzee",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 97,
+		"fields": {
+			"name": "Hypno",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 98,
+		"fields": {
+			"name": "Krabby",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 99,
+		"fields": {
+			"name": "Kingler",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 100,
+		"fields": {
+			"name": "Voltorb",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 101,
+		"fields": {
+			"name": "Electrode",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 102,
+		"fields": {
+			"name": "Exeggute",
+			"type_primary": 12,
+			"type_secondary": 14,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 103,
+		"fields": {
+			"name": "Exeggutor",
+			"type_primary": 12,
+			"type_secondary": 14,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 104,
+		"fields": {
+			"name": "Cubone",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 105,
+		"fields": {
+			"name": "Marowak",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 106,
+		"fields": {
+			"name": "Hitmonlee",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 107,
+		"fields": {
+			"name": "Hitmonchan",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 108,
+		"fields": {
+			"name": "Lickitung",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 109,
+		"fields": {
+			"name": "Koffing",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 110,
+		"fields": {
+			"name": "Weezing",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 111,
+		"fields": {
+			"name": "Rhyhorn",
+			"type_primary": 5,
+			"type_secondary": 6,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 112,
+		"fields": {
+			"name": "Rhydon",
+			"type_primary": 5,
+			"type_secondary": 6,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 113,
+		"fields": {
+			"name": "Chansey",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 114,
+		"fields": {
+			"name": "Tangela",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 115,
+		"fields": {
+			"name": "Kangaskhan",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 116,
+		"fields": {
+			"name": "Horsea",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 117,
+		"fields": {
+			"name": "Seadra",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 118,
+		"fields": {
+			"name": "Goldeen",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 119,
+		"fields": {
+			"name": "Seaking",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 120,
+		"fields": {
+			"name": "Staryu",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 121,
+		"fields": {
+			"name": "Starmie",
+			"type_primary": 11,
+			"type_secondary": 14,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 122,
+		"fields": {
+			"name": "Mr. Mime",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 123,
+		"fields": {
+			"name": "Scyther",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 124,
+		"fields": {
+			"name": "Jynx",
+			"type_primary": 15,
+			"type_secondary": 14,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 125,
+		"fields": {
+			"name": "Electabuzz",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 126,
+		"fields": {
+			"name": "Magmar",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 127,
+		"fields": {
+			"name": "Pinsir",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 128,
+		"fields": {
+			"name": "Tauros",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 129,
+		"fields": {
+			"name": "Magikarp",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 130,
+		"fields": {
+			"name": "Gyarados",
+			"type_primary": 11,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 131,
+		"fields": {
+			"name": "Lapras",
+			"type_primary": 11,
+			"type_secondary": 15,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 132,
+		"fields": {
+			"name": "Ditto",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 133,
+		"fields": {
+			"name": "Eevee",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 134,
+		"fields": {
+			"name": "Vaporeon",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 135,
+		"fields": {
+			"name": "Jolteon",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 136,
+		"fields": {
+			"name": "Flareon",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 137,
+		"fields": {
+			"name": "Porygon",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 138,
+		"fields": {
+			"name": "Omanyte",
+			"type_primary": 6,
+			"type_secondary": 11,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 139,
+		"fields": {
+			"name": "Omastar",
+			"type_primary": 6,
+			"type_secondary": 11,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 140,
+		"fields": {
+			"name": "Kabuto",
+			"type_primary": 6,
+			"type_secondary": 11,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 141,
+		"fields": {
+			"name": "Kabutops",
+			"type_primary": 6,
+			"type_secondary": 11,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 142,
+		"fields": {
+			"name": "Aerodactyl",
+			"type_primary": 6,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 143,
+		"fields": {
+			"name": "Snorlax",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 144,
+		"fields": {
+			"name": "Articuno",
+			"type_primary": 15,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 145,
+		"fields": {
+			"name": "Zapdos",
+			"type_primary": 13,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 146,
+		"fields": {
+			"name": "Moltres",
+			"type_primary": 10,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 147,
+		"fields": {
+			"name": "Dratini",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 148,
+		"fields": {
+			"name": "Dragonair",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 149,
+		"fields": {
+			"name": "Dragonite",
+			"type_primary": 16,
+			"type_secondary": 3,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 150,
+		"fields": {
+			"name": "Mewtwo",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 151,
+		"fields": {
+			"name": "Mew",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 152,
+		"fields": {
+			"name": "Chikorita",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 153,
+		"fields": {
+			"name": "Bayleef",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 154,
+		"fields": {
+			"name": "Meganium",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 155,
+		"fields": {
+			"name": "Cyndaquil",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 156,
+		"fields": {
+			"name": "Quilava",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 157,
+		"fields": {
+			"name": "Typhlosion",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 158,
+		"fields": {
+			"name": "Totodile",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 159,
+		"fields": {
+			"name": "Croconaw",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 160,
+		"fields": {
+			"name": "Feraligatr",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 161,
+		"fields": {
+			"name": "Sentret",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 162,
+		"fields": {
+			"name": "Furret",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 163,
+		"fields": {
+			"name": "Hoothoot",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 164,
+		"fields": {
+			"name": "Noctowl",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 165,
+		"fields": {
+			"name": "Ledyba",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 166,
+		"fields": {
+			"name": "Ledian",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 167,
+		"fields": {
+			"name": "Spinarak",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 168,
+		"fields": {
+			"name": "Ariados",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 169,
+		"fields": {
+			"name": "Crobat",
+			"type_primary": 4,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 170,
+		"fields": {
+			"name": "Chinchou",
+			"type_primary": 11,
+			"type_secondary": 13,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 171,
+		"fields": {
+			"name": "Lanturn",
+			"type_primary": 11,
+			"type_secondary": 13,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 172,
+		"fields": {
+			"name": "Pichu",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 173,
+		"fields": {
+			"name": "Cleffa",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 174,
+		"fields": {
+			"name": "Igglybuff",
+			"type_primary": 1,
+			"type_secondary": 18,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 175,
+		"fields": {
+			"name": "Togepi",
+			"type_primary": 18,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 176,
+		"fields": {
+			"name": "Togetic",
+			"type_primary": 18,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 177,
+		"fields": {
+			"name": "Natu",
+			"type_primary": 14,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 178,
+		"fields": {
+			"name": "Xatu",
+			"type_primary": 14,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 179,
+		"fields": {
+			"name": "Mareep",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 180,
+		"fields": {
+			"name": "Flaffy",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 181,
+		"fields": {
+			"name": "Ampharos",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 182,
+		"fields": {
+			"name": "Bellossom",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 183,
+		"fields": {
+			"name": "Marill",
+			"type_primary": 11,
+			"type_secondary": 18,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 184,
+		"fields": {
+			"name": "Azumarill",
+			"type_primary": 11,
+			"type_secondary": 18,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 185,
+		"fields": {
+			"name": "Sudowoodo",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 186,
+		"fields": {
+			"name": "Politoed",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 187,
+		"fields": {
+			"name": "Hoppip",
+			"type_primary": 12,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 188,
+		"fields": {
+			"name": "Skiploom",
+			"type_primary": 12,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 189,
+		"fields": {
+			"name": "Jumpluff",
+			"type_primary": 12,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 190,
+		"fields": {
+			"name": "Aipom",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 191,
+		"fields": {
+			"name": "Sunkern",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 192,
+		"fields": {
+			"name": "Sunflora",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 193,
+		"fields": {
+			"name": "Yanma",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 194,
+		"fields": {
+			"name": "Wooper",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 195,
+		"fields": {
+			"name": "Quagsire",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 196,
+		"fields": {
+			"name": "Espeon",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 197,
+		"fields": {
+			"name": "Umbreon",
+			"type_primary": 17,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 198,
+		"fields": {
+			"name": "Murkrow",
+			"type_primary": 17,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 199,
+		"fields": {
+			"name": "Slowking",
+			"type_primary": 14,
+			"type_secondary": 11,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 200,
+		"fields": {
+			"name": "Misdreavus",
+			"type_primary": 8,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 201,
+		"fields": {
+			"name": "Unown",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 202,
+		"fields": {
+			"name": "Wobbuffet",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 203,
+		"fields": {
+			"name": "Girafarig",
+			"type_primary": 1,
+			"type_secondary": 14,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 204,
+		"fields": {
+			"name": "Pineco",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 205,
+		"fields": {
+			"name": "Forretress",
+			"type_primary": 7,
+			"type_secondary": 9,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 206,
+		"fields": {
+			"name": "Dunsparce",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 207,
+		"fields": {
+			"name": "Gligar",
+			"type_primary": 5,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 208,
+		"fields": {
+			"name": "Steelix",
+			"type_primary": 9,
+			"type_secondary": 5,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 209,
+		"fields": {
+			"name": "Snubbull",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 210,
+		"fields": {
+			"name": "Granbull",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 211,
+		"fields": {
+			"name": "Qwlfish",
+			"type_primary": 11,
+			"type_secondary": 4,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 212,
+		"fields": {
+			"name": "Scizor",
+			"type_primary": 7,
+			"type_secondary": 9,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 213,
+		"fields": {
+			"name": "Shuckle",
+			"type_primary": 7,
+			"type_secondary": 6,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 214,
+		"fields": {
+			"name": "Heracross",
+			"type_primary": 7,
+			"type_secondary": 2,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 215,
+		"fields": {
+			"name": "Sneasel",
+			"type_primary": 17,
+			"type_secondary": 15,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 216,
+		"fields": {
+			"name": "Teddiursa",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 217,
+		"fields": {
+			"name": "Ursaring",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 218,
+		"fields": {
+			"name": "Slugma",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 219,
+		"fields": {
+			"name": "Magcargo",
+			"type_primary": 10,
+			"type_secondary": 6,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 220,
+		"fields": {
+			"name": "Swinub",
+			"type_primary": 15,
+			"type_secondary": 5,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 221,
+		"fields": {
+			"name": "Piloswine",
+			"type_primary": 15,
+			"type_secondary": 5,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 222,
+		"fields": {
+			"name": "Corsola",
+			"type_primary": 11,
+			"type_secondary": 6,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 223,
+		"fields": {
+			"name": "Remoraid",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 224,
+		"fields": {
+			"name": "Octillery",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 225,
+		"fields": {
+			"name": "Delibird",
+			"type_primary": 15,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 226,
+		"fields": {
+			"name": "Mantine",
+			"type_primary": 11,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 227,
+		"fields": {
+			"name": "Skarmory",
+			"type_primary": 9,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 228,
+		"fields": {
+			"name": "Houndour",
+			"type_primary": 17,
+			"type_secondary": 10,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 229,
+		"fields": {
+			"name": "Houndoom",
+			"type_primary": 17,
+			"type_secondary": 10,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 230,
+		"fields": {
+			"name": "Kingdra",
+			"type_primary": 11,
+			"type_secondary": 16,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 231,
+		"fields": {
+			"name": "Phanpy",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 232,
+		"fields": {
+			"name": "Donphan",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 233,
+		"fields": {
+			"name": "Porygon2",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 234,
+		"fields": {
+			"name": "Stantler",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 235,
+		"fields": {
+			"name": "Smeargle",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 236,
+		"fields": {
+			"name": "Tyrogue",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 237,
+		"fields": {
+			"name": "Hitmontop",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 238,
+		"fields": {
+			"name": "Smoochum",
+			"type_primary": 15,
+			"type_secondary": 14,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 239,
+		"fields": {
+			"name": "Elekid",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 240,
+		"fields": {
+			"name": "Magby",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 241,
+		"fields": {
+			"name": "Miltank",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 242,
+		"fields": {
+			"name": "Blissey",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 243,
+		"fields": {
+			"name": "Raikou",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 244,
+		"fields": {
+			"name": "Entei",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 245,
+		"fields": {
+			"name": "Suicune",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 246,
+		"fields": {
+			"name": "Larvitar",
+			"type_primary": 6,
+			"type_secondary": 5,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 247,
+		"fields": {
+			"name": "Pupitar",
+			"type_primary": 6,
+			"type_secondary": 5,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 248,
+		"fields": {
+			"name": "Tyranitar",
+			"type_primary": 6,
+			"type_secondary": 17,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 249,
+		"fields": {
+			"name": "Lugia",
+			"type_primary": 14,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 250,
+		"fields": {
+			"name": "Ho-oh",
+			"type_primary": 10,
+			"type_secondary": 3,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 251,
+		"fields": {
+			"name": "Celebi",
+			"type_primary": 12,
+			"type_secondary": 14,
+			"region": 2
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 252,
+		"fields": {
+			"name": "Treecko",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 253,
+		"fields": {
+			"name": "Grovyle",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 254,
+		"fields": {
+			"name": "Sceptile",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 255,
+		"fields": {
+			"name": "Torchic",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 256,
+		"fields": {
+			"name": "Combusken",
+			"type_primary": 10,
+			"type_secondary": 2,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 257,
+		"fields": {
+			"name": "Blaziken",
+			"type_primary": 10,
+			"type_secondary": 2,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 258,
+		"fields": {
+			"name": "Mudkip",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 259,
+		"fields": {
+			"name": "Marshtomp",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 260,
+		"fields": {
+			"name": "Swampert",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 261,
+		"fields": {
+			"name": "Poochyena",
+			"type_primary": 17,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 262,
+		"fields": {
+			"name": "Mightyena",
+			"type_primary": 17,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 263,
+		"fields": {
+			"name": "Zigzagoon",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 264,
+		"fields": {
+			"name": "Linoone",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 265,
+		"fields": {
+			"name": "Wurmple",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 266,
+		"fields": {
+			"name": "Silcoon",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 267,
+		"fields": {
+			"name": "Beautifly",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 268,
+		"fields": {
+			"name": "Cascoon",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 269,
+		"fields": {
+			"name": "Dustox",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 270,
+		"fields": {
+			"name": "Lotad",
+			"type_primary": 11,
+			"type_secondary": 12,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 271,
+		"fields": {
+			"name": "Lombre",
+			"type_primary": 11,
+			"type_secondary": 12,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 272,
+		"fields": {
+			"name": "Ludicolo",
+			"type_primary": 11,
+			"type_secondary": 12,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 273,
+		"fields": {
+			"name": "Seedot",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 274,
+		"fields": {
+			"name": "Nuzleaf",
+			"type_primary": 12,
+			"type_secondary": 17,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 275,
+		"fields": {
+			"name": "Shiftry",
+			"type_primary": 12,
+			"type_secondary": 17,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 276,
+		"fields": {
+			"name": "Taillow",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 277,
+		"fields": {
+			"name": "Swellow",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 278,
+		"fields": {
+			"name": "Wingull",
+			"type_primary": 11,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 279,
+		"fields": {
+			"name": "Pelipper",
+			"type_primary": 11,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 280,
+		"fields": {
+			"name": "Ralts",
+			"type_primary": 14,
+			"type_secondary": 18,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 281,
+		"fields": {
+			"name": "Kirlia",
+			"type_primary": 14,
+			"type_secondary": 18,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 282,
+		"fields": {
+			"name": "Gardevoir",
+			"type_primary": 14,
+			"type_secondary": 18,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 283,
+		"fields": {
+			"name": "Surskit",
+			"type_primary": 7,
+			"type_secondary": 11,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 284,
+		"fields": {
+			"name": "Masquerain",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 285,
+		"fields": {
+			"name": "Shroomish",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 286,
+		"fields": {
+			"name": "Breloom",
+			"type_primary": 12,
+			"type_secondary": 2,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 287,
+		"fields": {
+			"name": "Slakoth",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 288,
+		"fields": {
+			"name": "Vigoroth",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 289,
+		"fields": {
+			"name": "Slaking",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 290,
+		"fields": {
+			"name": "Nincada",
+			"type_primary": 7,
+			"type_secondary": 5,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 291,
+		"fields": {
+			"name": "Ninjask",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 292,
+		"fields": {
+			"name": "Shedinja",
+			"type_primary": 7,
+			"type_secondary": 8,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 293,
+		"fields": {
+			"name": "Whismur",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 294,
+		"fields": {
+			"name": "Loudred",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 295,
+		"fields": {
+			"name": "Exploud",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 296,
+		"fields": {
+			"name": "Makhuita",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 297,
+		"fields": {
+			"name": "Hariyama",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 298,
+		"fields": {
+			"name": "Azurill",
+			"type_primary": 1,
+			"type_secondary": 18,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 299,
+		"fields": {
+			"name": "Nosepass",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 300,
+		"fields": {
+			"name": "Skitty",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 301,
+		"fields": {
+			"name": "Delcatty",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 302,
+		"fields": {
+			"name": "Sableye",
+			"type_primary": 17,
+			"type_secondary": 8,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 303,
+		"fields": {
+			"name": "Mawile",
+			"type_primary": 9,
+			"type_secondary": 18,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 304,
+		"fields": {
+			"name": "Aron",
+			"type_primary": 9,
+			"type_secondary": 6,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 305,
+		"fields": {
+			"name": "Lairon",
+			"type_primary": 9,
+			"type_secondary": 6,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 306,
+		"fields": {
+			"name": "Aggron",
+			"type_primary": 9,
+			"type_secondary": 6,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 307,
+		"fields": {
+			"name": "Meditite",
+			"type_primary": 2,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 308,
+		"fields": {
+			"name": "Medicham",
+			"type_primary": 2,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 309,
+		"fields": {
+			"name": "Electrike",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 310,
+		"fields": {
+			"name": "Manectric",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 311,
+		"fields": {
+			"name": "Plusle",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 312,
+		"fields": {
+			"name": "Minun",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 313,
+		"fields": {
+			"name": "Volbeat",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 314,
+		"fields": {
+			"name": "Illumise",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 315,
+		"fields": {
+			"name": "Roselia",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 316,
+		"fields": {
+			"name": "Gulpin",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 317,
+		"fields": {
+			"name": "Swalot",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 318,
+		"fields": {
+			"name": "Carvanha",
+			"type_primary": 11,
+			"type_secondary": 17,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 319,
+		"fields": {
+			"name": "Sharpedo",
+			"type_primary": 11,
+			"type_secondary": 17,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 320,
+		"fields": {
+			"name": "Wailmer",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 321,
+		"fields": {
+			"name": "Wailord",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 322,
+		"fields": {
+			"name": "Numel",
+			"type_primary": 10,
+			"type_secondary": 5,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 323,
+		"fields": {
+			"name": "Camerupt",
+			"type_primary": 10,
+			"type_secondary": 5,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 324,
+		"fields": {
+			"name": "Torkoal",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 325,
+		"fields": {
+			"name": "Spoink",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 326,
+		"fields": {
+			"name": "Grumpig",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 327,
+		"fields": {
+			"name": "Spinda",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 328,
+		"fields": {
+			"name": "Trapinch",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 329,
+		"fields": {
+			"name": "Vibrava",
+			"type_primary": 5,
+			"type_secondary": 16,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 330,
+		"fields": {
+			"name": "Flygon",
+			"type_primary": 5,
+			"type_secondary": 16,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 331,
+		"fields": {
+			"name": "Cacnea",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 332,
+		"fields": {
+			"name": "Cacturne",
+			"type_primary": 12,
+			"type_secondary": 17,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 333,
+		"fields": {
+			"name": "Swablu",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 334,
+		"fields": {
+			"name": "Altaria",
+			"type_primary": 16,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 335,
+		"fields": {
+			"name": "Zangoose",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 336,
+		"fields": {
+			"name": "Seviper",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 337,
+		"fields": {
+			"name": "Lunatone",
+			"type_primary": 6,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 338,
+		"fields": {
+			"name": "Solrock",
+			"type_primary": 6,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 339,
+		"fields": {
+			"name": "Barboach",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 340,
+		"fields": {
+			"name": "Whiscash",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 341,
+		"fields": {
+			"name": "Corphish",
+			"type_primary": 11,
+			"type_secondary": 17,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 342,
+		"fields": {
+			"name": "Crawdaunt",
+			"type_primary": 11,
+			"type_secondary": 17,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 343,
+		"fields": {
+			"name": "Baltoy",
+			"type_primary": 5,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 344,
+		"fields": {
+			"name": "Claydol",
+			"type_primary": 5,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 345,
+		"fields": {
+			"name": "Lileep",
+			"type_primary": 6,
+			"type_secondary": 12,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 346,
+		"fields": {
+			"name": "Cradily",
+			"type_primary": 6,
+			"type_secondary": 12,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 347,
+		"fields": {
+			"name": "Anorith",
+			"type_primary": 6,
+			"type_secondary": 7,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 348,
+		"fields": {
+			"name": "Armaldo",
+			"type_primary": 6,
+			"type_secondary": 7,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 349,
+		"fields": {
+			"name": "Feebas",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 350,
+		"fields": {
+			"name": "Milotic",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 351,
+		"fields": {
+			"name": "Castform",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 352,
+		"fields": {
+			"name": "Kecleon",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 353,
+		"fields": {
+			"name": "Shuppet",
+			"type_primary": 8,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 354,
+		"fields": {
+			"name": "Banette",
+			"type_primary": 8,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 355,
+		"fields": {
+			"name": "Duskull",
+			"type_primary": 8,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 356,
+		"fields": {
+			"name": "Dusclops",
+			"type_primary": 8,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 357,
+		"fields": {
+			"name": "Tropius",
+			"type_primary": 12,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 358,
+		"fields": {
+			"name": "Chimecho",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 359,
+		"fields": {
+			"name": "Absol",
+			"type_primary": 17,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 360,
+		"fields": {
+			"name": "Wynaut",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 361,
+		"fields": {
+			"name": "Snorunt",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 362,
+		"fields": {
+			"name": "Glalie",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 363,
+		"fields": {
+			"name": "Spheal",
+			"type_primary": 15,
+			"type_secondary": 11,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 364,
+		"fields": {
+			"name": "Sealeo",
+			"type_primary": 15,
+			"type_secondary": 11,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 365,
+		"fields": {
+			"name": "Walrein",
+			"type_primary": 15,
+			"type_secondary": 11,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 366,
+		"fields": {
+			"name": "Clamperl",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 367,
+		"fields": {
+			"name": "Huntail",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 368,
+		"fields": {
+			"name": "Gorebyss",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 369,
+		"fields": {
+			"name": "Relicanth",
+			"type_primary": 11,
+			"type_secondary": 6,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 370,
+		"fields": {
+			"name": "Luvdisc",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 371,
+		"fields": {
+			"name": "Bagon",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 372,
+		"fields": {
+			"name": "Shelgon",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 373,
+		"fields": {
+			"name": "Salamence",
+			"type_primary": 16,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 374,
+		"fields": {
+			"name": "Beldum",
+			"type_primary": 9,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 375,
+		"fields": {
+			"name": "Metang",
+			"type_primary": 9,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 376,
+		"fields": {
+			"name": "Metagross",
+			"type_primary": 9,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 377,
+		"fields": {
+			"name": "Regirock",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 378,
+		"fields": {
+			"name": "Regice",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 379,
+		"fields": {
+			"name": "Registeel",
+			"type_primary": 9,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 380,
+		"fields": {
+			"name": "Latias",
+			"type_primary": 16,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 381,
+		"fields": {
+			"name": "Latios",
+			"type_primary": 16,
+			"type_secondary": 14,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 382,
+		"fields": {
+			"name": "Kyogre",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 383,
+		"fields": {
+			"name": "Groudon",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 384,
+		"fields": {
+			"name": "Rayquaza",
+			"type_primary": 16,
+			"type_secondary": 3,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 385,
+		"fields": {
+			"name": "Jirachi",
+			"type_primary": 14,
+			"type_secondary": 9,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 386,
+		"fields": {
+			"name": "Deoxys",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 3
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 387,
+		"fields": {
+			"name": "Turtwig",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 388,
+		"fields": {
+			"name": "Grotle",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 389,
+		"fields": {
+			"name": "Torterra",
+			"type_primary": 12,
+			"type_secondary": 5,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 390,
+		"fields": {
+			"name": "Chimchar",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 391,
+		"fields": {
+			"name": "Monferno",
+			"type_primary": 10,
+			"type_secondary": 2,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 392,
+		"fields": {
+			"name": "Infernape",
+			"type_primary": 10,
+			"type_secondary": 2,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 393,
+		"fields": {
+			"name": "Piplup",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 394,
+		"fields": {
+			"name": "Prinplup",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 395,
+		"fields": {
+			"name": "Empoleon",
+			"type_primary": 11,
+			"type_secondary": 9,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 396,
+		"fields": {
+			"name": "Starly",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 397,
+		"fields": {
+			"name": "Staravia",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 398,
+		"fields": {
+			"name": "Staraptor",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 399,
+		"fields": {
+			"name": "Bidoof",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 400,
+		"fields": {
+			"name": "Bibarel",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 401,
+		"fields": {
+			"name": "Krektot",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 402,
+		"fields": {
+			"name": "Kricketune",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 403,
+		"fields": {
+			"name": "Shinx",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 404,
+		"fields": {
+			"name": "Luxio",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 405,
+		"fields": {
+			"name": "Luxray",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 406,
+		"fields": {
+			"name": "Budew",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 407,
+		"fields": {
+			"name": "Roserade",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 408,
+		"fields": {
+			"name": "Cranidos",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 409,
+		"fields": {
+			"name": "Ramparados",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 410,
+		"fields": {
+			"name": "Shieldon",
+			"type_primary": 6,
+			"type_secondary": 9,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 411,
+		"fields": {
+			"name": "Bastiodon",
+			"type_primary": 6,
+			"type_secondary": 9,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 412,
+		"fields": {
+			"name": "Burmy",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 413,
+		"fields": {
+			"name": "Wormadam",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 414,
+		"fields": {
+			"name": "Mothim",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 415,
+		"fields": {
+			"name": "Combee",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 416,
+		"fields": {
+			"name": "Vespiquen",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 417,
+		"fields": {
+			"name": "Pachirisu",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 418,
+		"fields": {
+			"name": "Buizel",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 419,
+		"fields": {
+			"name": "Floatzel",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 420,
+		"fields": {
+			"name": "Cherubi",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 421,
+		"fields": {
+			"name": "Cherrim",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 422,
+		"fields": {
+			"name": "Shellos",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 423,
+		"fields": {
+			"name": "Gastrodon",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 424,
+		"fields": {
+			"name": "Ambipom",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 425,
+		"fields": {
+			"name": "Drifloon",
+			"type_primary": 8,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 426,
+		"fields": {
+			"name": "Drifblim",
+			"type_primary": 8,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 427,
+		"fields": {
+			"name": "Buneary",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 428,
+		"fields": {
+			"name": "Lopunny",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 429,
+		"fields": {
+			"name": "Mismagius",
+			"type_primary": 8,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 430,
+		"fields": {
+			"name": "Honchkrow",
+			"type_primary": 17,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 431,
+		"fields": {
+			"name": "Glameow",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 432,
+		"fields": {
+			"name": "Purugly",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 433,
+		"fields": {
+			"name": "Chingling",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 434,
+		"fields": {
+			"name": "Stunky",
+			"type_primary": 4,
+			"type_secondary": 17,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 435,
+		"fields": {
+			"name": "Skuntank",
+			"type_primary": 4,
+			"type_secondary": 17,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 436,
+		"fields": {
+			"name": "Bronzor",
+			"type_primary": 14,
+			"type_secondary": 9,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 437,
+		"fields": {
+			"name": "Bronzong",
+			"type_primary": 14,
+			"type_secondary": 9,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 438,
+		"fields": {
+			"name": "Bonsly",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 439,
+		"fields": {
+			"name": "Mime Jr.",
+			"type_primary": 14,
+			"type_secondary": 18,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 440,
+		"fields": {
+			"name": "Happiny",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 441,
+		"fields": {
+			"name": "Chatot",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 442,
+		"fields": {
+			"name": "Spiritomb",
+			"type_primary": 8,
+			"type_secondary": 17,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 443,
+		"fields": {
+			"name": "Gible",
+			"type_primary": 16,
+			"type_secondary": 5,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 444,
+		"fields": {
+			"name": "Gabite",
+			"type_primary": 16,
+			"type_secondary": 5,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 445,
+		"fields": {
+			"name": "Garchomp",
+			"type_primary": 16,
+			"type_secondary": 5,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 446,
+		"fields": {
+			"name": "Munchlax",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 447,
+		"fields": {
+			"name": "Riolu",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 448,
+		"fields": {
+			"name": "Lucario",
+			"type_primary": 2,
+			"type_secondary": 9,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 449,
+		"fields": {
+			"name": "Hippopotas",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 450,
+		"fields": {
+			"name": "Hippowdon",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 451,
+		"fields": {
+			"name": "Skorupi",
+			"type_primary": 4,
+			"type_secondary": 7,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 452,
+		"fields": {
+			"name": "Drapion",
+			"type_primary": 4,
+			"type_secondary": 17,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 453,
+		"fields": {
+			"name": "Croagunk",
+			"type_primary": 4,
+			"type_secondary": 2,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 454,
+		"fields": {
+			"name": "Toxicroak",
+			"type_primary": 4,
+			"type_secondary": 2,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 455,
+		"fields": {
+			"name": "Carnivine",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 456,
+		"fields": {
+			"name": "Finneon",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 457,
+		"fields": {
+			"name": "Lumineon",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 458,
+		"fields": {
+			"name": "Mantyke",
+			"type_primary": 11,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 459,
+		"fields": {
+			"name": "Snover",
+			"type_primary": 12,
+			"type_secondary": 15,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 460,
+		"fields": {
+			"name": "Abomasnow",
+			"type_primary": 12,
+			"type_secondary": 15,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 461,
+		"fields": {
+			"name": "Weavile",
+			"type_primary": 17,
+			"type_secondary": 15,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 462,
+		"fields": {
+			"name": "Magnezone",
+			"type_primary": 13,
+			"type_secondary": 9,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 463,
+		"fields": {
+			"name": "Lickilicky",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 464,
+		"fields": {
+			"name": "Rhyperior",
+			"type_primary": 5,
+			"type_secondary": 6,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 465,
+		"fields": {
+			"name": "Tangrowth",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 466,
+		"fields": {
+			"name": "Electivire",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 467,
+		"fields": {
+			"name": "Magmortar",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 468,
+		"fields": {
+			"name": "Togekiss",
+			"type_primary": 18,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 469,
+		"fields": {
+			"name": "Yanmega",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 470,
+		"fields": {
+			"name": "Leafeon",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 471,
+		"fields": {
+			"name": "Glaceon",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 472,
+		"fields": {
+			"name": "Gliscor",
+			"type_primary": 5,
+			"type_secondary": 3,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 473,
+		"fields": {
+			"name": "Mamoswine",
+			"type_primary": 15,
+			"type_secondary": 5,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 474,
+		"fields": {
+			"name": "Porygon-Z",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 475,
+		"fields": {
+			"name": "Gallade",
+			"type_primary": 14,
+			"type_secondary": 2,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 476,
+		"fields": {
+			"name": "Probopass",
+			"type_primary": 6,
+			"type_secondary": 9,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 477,
+		"fields": {
+			"name": "Dusknoir",
+			"type_primary": 8,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 478,
+		"fields": {
+			"name": "Frosslass",
+			"type_primary": 15,
+			"type_secondary": 8,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 479,
+		"fields": {
+			"name": "Rotom",
+			"type_primary": 8,
+			"type_secondary": 13,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 480,
+		"fields": {
+			"name": "Uxie",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 481,
+		"fields": {
+			"name": "Mesprit",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 482,
+		"fields": {
+			"name": "Azelf",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 483,
+		"fields": {
+			"name": "Dialga",
+			"type_primary": 9,
+			"type_secondary": 16,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 484,
+		"fields": {
+			"name": "Palkia",
+			"type_primary": 11,
+			"type_secondary": 16,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 485,
+		"fields": {
+			"name": "Heatran",
+			"type_primary": 10,
+			"type_secondary": 9,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 486,
+		"fields": {
+			"name": "Regigas",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 487,
+		"fields": {
+			"name": "Giratina",
+			"type_primary": 8,
+			"type_secondary": 16,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 488,
+		"fields": {
+			"name": "Cresselia",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 489,
+		"fields": {
+			"name": "Phione",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 490,
+		"fields": {
+			"name": "Manaphy",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 491,
+		"fields": {
+			"name": "Darkrai",
+			"type_primary": 17,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 492,
+		"fields": {
+			"name": "Shaymin",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 493,
+		"fields": {
+			"name": "Arceus",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 4
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 494,
+		"fields": {
+			"name": "Victini",
+			"type_primary": 14,
+			"type_secondary": 10,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 495,
+		"fields": {
+			"name": "Snivy",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 496,
+		"fields": {
+			"name": "Servine",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 497,
+		"fields": {
+			"name": "Serperior",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 498,
+		"fields": {
+			"name": "Tepig",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 499,
+		"fields": {
+			"name": "Pignite",
+			"type_primary": 10,
+			"type_secondary": 2,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 500,
+		"fields": {
+			"name": "Emboar",
+			"type_primary": 10,
+			"type_secondary": 2,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 501,
+		"fields": {
+			"name": "Oshawott",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 502,
+		"fields": {
+			"name": "Dewott",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 503,
+		"fields": {
+			"name": "Samurott",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 504,
+		"fields": {
+			"name": "Patrat",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 505,
+		"fields": {
+			"name": "Watchog",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 506,
+		"fields": {
+			"name": "Lillipup",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 507,
+		"fields": {
+			"name": "Herdier",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 508,
+		"fields": {
+			"name": "Stoutland",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 509,
+		"fields": {
+			"name": "Purrloin",
+			"type_primary": 17,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 510,
+		"fields": {
+			"name": "Liepard",
+			"type_primary": 17,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 511,
+		"fields": {
+			"name": "Pansage",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 512,
+		"fields": {
+			"name": "Simisage",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 513,
+		"fields": {
+			"name": "Pansear",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 514,
+		"fields": {
+			"name": "Simisaear",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 515,
+		"fields": {
+			"name": "Panpour",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 516,
+		"fields": {
+			"name": "Simipour",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 517,
+		"fields": {
+			"name": "Munna",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 518,
+		"fields": {
+			"name": "Musharna",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 519,
+		"fields": {
+			"name": "Pidove",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 520,
+		"fields": {
+			"name": "Tranquill",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 521,
+		"fields": {
+			"name": "Unfezant",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 522,
+		"fields": {
+			"name": "Blitzle",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 523,
+		"fields": {
+			"name": "Zebstrika",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 524,
+		"fields": {
+			"name": "Roggenrola",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 525,
+		"fields": {
+			"name": "Boldore",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 526,
+		"fields": {
+			"name": "Gigalith",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 527,
+		"fields": {
+			"name": "Woobat",
+			"type_primary": 14,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 528,
+		"fields": {
+			"name": "Swoobat",
+			"type_primary": 14,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 529,
+		"fields": {
+			"name": "Drilbur",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 530,
+		"fields": {
+			"name": "Excadrill",
+			"type_primary": 5,
+			"type_secondary": 9,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 531,
+		"fields": {
+			"name": "Audino",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 532,
+		"fields": {
+			"name": "Timburr",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 533,
+		"fields": {
+			"name": "Gurdurr",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 534,
+		"fields": {
+			"name": "Conkeldurr",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 535,
+		"fields": {
+			"name": "Tympole",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 536,
+		"fields": {
+			"name": "Palpitoad",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 537,
+		"fields": {
+			"name": "Seismitoad",
+			"type_primary": 11,
+			"type_secondary": 5,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 538,
+		"fields": {
+			"name": "Thoh",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 539,
+		"fields": {
+			"name": "Sawk",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 540,
+		"fields": {
+			"name": "Sewaddle",
+			"type_primary": 7,
+			"type_secondary": 12,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 541,
+		"fields": {
+			"name": "Swadloon",
+			"type_primary": 7,
+			"type_secondary": 12,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 542,
+		"fields": {
+			"name": "Leavanny",
+			"type_primary": 7,
+			"type_secondary": 12,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 543,
+		"fields": {
+			"name": "Venipede",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 544,
+		"fields": {
+			"name": "Whirlipede",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 545,
+		"fields": {
+			"name": "Scolipede",
+			"type_primary": 7,
+			"type_secondary": 4,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 546,
+		"fields": {
+			"name": "Cottonee",
+			"type_primary": 12,
+			"type_secondary": 18,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 547,
+		"fields": {
+			"name": "Whimsicott",
+			"type_primary": 12,
+			"type_secondary": 18,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 548,
+		"fields": {
+			"name": "Petilil",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 549,
+		"fields": {
+			"name": "Liligant",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 550,
+		"fields": {
+			"name": "Basculin",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 551,
+		"fields": {
+			"name": "Sandile",
+			"type_primary": 5,
+			"type_secondary": 17,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 552,
+		"fields": {
+			"name": "Krokorok",
+			"type_primary": 5,
+			"type_secondary": 17,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 553,
+		"fields": {
+			"name": "Krookodile",
+			"type_primary": 5,
+			"type_secondary": 17,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 554,
+		"fields": {
+			"name": "Darumaka",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 555,
+		"fields": {
+			"name": "Darmanitan",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 556,
+		"fields": {
+			"name": "Maractus",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 557,
+		"fields": {
+			"name": "Dwebble",
+			"type_primary": 7,
+			"type_secondary": 6,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 558,
+		"fields": {
+			"name": "Crustle",
+			"type_primary": 7,
+			"type_secondary": 6,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 559,
+		"fields": {
+			"name": "Scraggy",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 560,
+		"fields": {
+			"name": "Scrafty",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 561,
+		"fields": {
+			"name": "Sigilyph",
+			"type_primary": 14,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 562,
+		"fields": {
+			"name": "Yamask",
+			"type_primary": 8,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 563,
+		"fields": {
+			"name": "Cofagrigus",
+			"type_primary": 8,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 564,
+		"fields": {
+			"name": "Tirtouga",
+			"type_primary": 11,
+			"type_secondary": 6,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 565,
+		"fields": {
+			"name": "Carracosta",
+			"type_primary": 11,
+			"type_secondary": 6,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 566,
+		"fields": {
+			"name": "Archen",
+			"type_primary": 6,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 567,
+		"fields": {
+			"name": "Archeops",
+			"type_primary": 6,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 568,
+		"fields": {
+			"name": "Trubbish",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 569,
+		"fields": {
+			"name": "Garbodor",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 570,
+		"fields": {
+			"name": "Zorua",
+			"type_primary": 17,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 571,
+		"fields": {
+			"name": "Zoroak",
+			"type_primary": 17,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 572,
+		"fields": {
+			"name": "Minccino",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 573,
+		"fields": {
+			"name": "Cinccino",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 574,
+		"fields": {
+			"name": "Gothita",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 575,
+		"fields": {
+			"name": "Gothorita",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 576,
+		"fields": {
+			"name": "Gothitelle",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 577,
+		"fields": {
+			"name": "Solosis",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 578,
+		"fields": {
+			"name": "Duosion",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 579,
+		"fields": {
+			"name": "Reuniclus",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 580,
+		"fields": {
+			"name": "Ducklett",
+			"type_primary": 11,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 581,
+		"fields": {
+			"name": "Swanna",
+			"type_primary": 11,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 582,
+		"fields": {
+			"name": "Vanillite",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 583,
+		"fields": {
+			"name": "Vanillish",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 584,
+		"fields": {
+			"name": "Vanilluxe",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 585,
+		"fields": {
+			"name": "Deerling",
+			"type_primary": 1,
+			"type_secondary": 12,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 586,
+		"fields": {
+			"name": "Sawsbuck",
+			"type_primary": 1,
+			"type_secondary": 12,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 587,
+		"fields": {
+			"name": "Emolga",
+			"type_primary": 13,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 588,
+		"fields": {
+			"name": "Karrablast",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 589,
+		"fields": {
+			"name": "Escavalier",
+			"type_primary": 7,
+			"type_secondary": 9,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 590,
+		"fields": {
+			"name": "Foongus",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 591,
+		"fields": {
+			"name": "Amoonguss",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 592,
+		"fields": {
+			"name": "Frillish",
+			"type_primary": 11,
+			"type_secondary": 8,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 593,
+		"fields": {
+			"name": "Jellicent",
+			"type_primary": 11,
+			"type_secondary": 8,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 594,
+		"fields": {
+			"name": "Alomomola",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 595,
+		"fields": {
+			"name": "Joltik",
+			"type_primary": 7,
+			"type_secondary": 13,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 596,
+		"fields": {
+			"name": "Galvantula",
+			"type_primary": 7,
+			"type_secondary": 13,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 597,
+		"fields": {
+			"name": "Ferroseed",
+			"type_primary": 12,
+			"type_secondary": 9,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 598,
+		"fields": {
+			"name": "Ferrothorn",
+			"type_primary": 12,
+			"type_secondary": 9,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 599,
+		"fields": {
+			"name": "Klink",
+			"type_primary": 9,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 600,
+		"fields": {
+			"name": "Klang",
+			"type_primary": 9,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 601,
+		"fields": {
+			"name": "Klinklang",
+			"type_primary": 9,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 602,
+		"fields": {
+			"name": "Tynamo",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 603,
+		"fields": {
+			"name": "Elektrik",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 604,
+		"fields": {
+			"name": "Elektross",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 605,
+		"fields": {
+			"name": "Elgyem",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 606,
+		"fields": {
+			"name": "Beheeyem",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 607,
+		"fields": {
+			"name": "Litwick",
+			"type_primary": 8,
+			"type_secondary": 10,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 608,
+		"fields": {
+			"name": "Lampent",
+			"type_primary": 8,
+			"type_secondary": 10,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 609,
+		"fields": {
+			"name": "Chandelure",
+			"type_primary": 8,
+			"type_secondary": 10,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 610,
+		"fields": {
+			"name": "Axew",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 611,
+		"fields": {
+			"name": "Fraxure",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 612,
+		"fields": {
+			"name": "Haxorus",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 613,
+		"fields": {
+			"name": "Cubchoo",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 614,
+		"fields": {
+			"name": "Beartic",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 615,
+		"fields": {
+			"name": "Cryogonal",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 616,
+		"fields": {
+			"name": "Shelmet",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 617,
+		"fields": {
+			"name": "Accelgor",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 618,
+		"fields": {
+			"name": "Stunfisk",
+			"type_primary": 5,
+			"type_secondary": 13,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 619,
+		"fields": {
+			"name": "Mienfoo",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 620,
+		"fields": {
+			"name": "Mienshao",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 621,
+		"fields": {
+			"name": "Druddigon",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 622,
+		"fields": {
+			"name": "Golett",
+			"type_primary": 5,
+			"type_secondary": 8,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 623,
+		"fields": {
+			"name": "Golurk",
+			"type_primary": 5,
+			"type_secondary": 8,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 624,
+		"fields": {
+			"name": "Pawniard",
+			"type_primary": 17,
+			"type_secondary": 9,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 625,
+		"fields": {
+			"name": "Bisharp",
+			"type_primary": 17,
+			"type_secondary": 9,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 626,
+		"fields": {
+			"name": "Bouffalant",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 627,
+		"fields": {
+			"name": "Rufflet",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 628,
+		"fields": {
+			"name": "Braviary",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 629,
+		"fields": {
+			"name": "Vullaby",
+			"type_primary": 17,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 630,
+		"fields": {
+			"name": "Mandibuzz",
+			"type_primary": 17,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 631,
+		"fields": {
+			"name": "Heatmor",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 632,
+		"fields": {
+			"name": "Durant",
+			"type_primary": 7,
+			"type_secondary": 9,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 633,
+		"fields": {
+			"name": "Deino",
+			"type_primary": 17,
+			"type_secondary": 16,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 634,
+		"fields": {
+			"name": "Zweilous",
+			"type_primary": 17,
+			"type_secondary": 16,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 635,
+		"fields": {
+			"name": "Hydreigon",
+			"type_primary": 17,
+			"type_secondary": 16,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 636,
+		"fields": {
+			"name": "Larvesta",
+			"type_primary": 7,
+			"type_secondary": 10,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 637,
+		"fields": {
+			"name": "Volcarona",
+			"type_primary": 7,
+			"type_secondary": 10,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 638,
+		"fields": {
+			"name": "Cobalion",
+			"type_primary": 9,
+			"type_secondary": 2,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 639,
+		"fields": {
+			"name": "Terrakion",
+			"type_primary": 6,
+			"type_secondary": 2,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 640,
+		"fields": {
+			"name": "Virizion",
+			"type_primary": 12,
+			"type_secondary": 2,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 641,
+		"fields": {
+			"name": "Tornadus",
+			"type_primary": 3,
+			"type_secondary": 0,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 642,
+		"fields": {
+			"name": "Thundurus",
+			"type_primary": 13,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 643,
+		"fields": {
+			"name": "Reshiram",
+			"type_primary": 16,
+			"type_secondary": 10,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 644,
+		"fields": {
+			"name": "Zekrom",
+			"type_primary": 16,
+			"type_secondary": 13,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 645,
+		"fields": {
+			"name": "Landorus",
+			"type_primary": 5,
+			"type_secondary": 3,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 646,
+		"fields": {
+			"name": "Kyurem",
+			"type_primary": 16,
+			"type_secondary": 15,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 647,
+		"fields": {
+			"name": "Keldeo",
+			"type_primary": 11,
+			"type_secondary": 2,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 648,
+		"fields": {
+			"name": "Meloetta",
+			"type_primary": 1,
+			"type_secondary": 14,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 649,
+		"fields": {
+			"name": "Genesect",
+			"type_primary": 7,
+			"type_secondary": 9,
+			"region": 5
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 650,
+		"fields": {
+			"name": "Chespin",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 651,
+		"fields": {
+			"name": "Quilladin",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 652,
+		"fields": {
+			"name": "Chesnaught",
+			"type_primary": 12,
+			"type_secondary": 2,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 653,
+		"fields": {
+			"name": "Fennekin",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 654,
+		"fields": {
+			"name": "Braixen",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 655,
+		"fields": {
+			"name": "Delphox",
+			"type_primary": 10,
+			"type_secondary": 14,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 656,
+		"fields": {
+			"name": "Froakie",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 657,
+		"fields": {
+			"name": "Frogadier",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 658,
+		"fields": {
+			"name": "Greninja",
+			"type_primary": 11,
+			"type_secondary": 17,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 659,
+		"fields": {
+			"name": "Bunnelby",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 660,
+		"fields": {
+			"name": "Diggersby",
+			"type_primary": 1,
+			"type_secondary": 5,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 661,
+		"fields": {
+			"name": "Fletchling",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 662,
+		"fields": {
+			"name": "Fletchinder",
+			"type_primary": 10,
+			"type_secondary": 3,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 663,
+		"fields": {
+			"name": "Talonflame",
+			"type_primary": 10,
+			"type_secondary": 3,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 664,
+		"fields": {
+			"name": "Scatterbug",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 665,
+		"fields": {
+			"name": "Spewpa",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 666,
+		"fields": {
+			"name": "Vivillon",
+			"type_primary": 7,
+			"type_secondary": 3,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 667,
+		"fields": {
+			"name": "Litleo",
+			"type_primary": 1,
+			"type_secondary": 10,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 668,
+		"fields": {
+			"name": "Pyroar",
+			"type_primary": 1,
+			"type_secondary": 10,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 669,
+		"fields": {
+			"name": "Flabebe",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 670,
+		"fields": {
+			"name": "Floette",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 671,
+		"fields": {
+			"name": "Florges",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 672,
+		"fields": {
+			"name": "Skiddo",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 673,
+		"fields": {
+			"name": "Gogoat",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 674,
+		"fields": {
+			"name": "Pancham",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 675,
+		"fields": {
+			"name": "Pangoro",
+			"type_primary": 2,
+			"type_secondary": 17,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 676,
+		"fields": {
+			"name": "Furfrou",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 677,
+		"fields": {
+			"name": "Espurr",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 678,
+		"fields": {
+			"name": "Meowstic",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 679,
+		"fields": {
+			"name": "Honedge",
+			"type_primary": 9,
+			"type_secondary": 8,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 680,
+		"fields": {
+			"name": "Duoblade",
+			"type_primary": 9,
+			"type_secondary": 8,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 681,
+		"fields": {
+			"name": "Aegislash",
+			"type_primary": 9,
+			"type_secondary": 8,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 682,
+		"fields": {
+			"name": "Spritzee",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 683,
+		"fields": {
+			"name": "Armoatisse",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 684,
+		"fields": {
+			"name": "Swirlix",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 685,
+		"fields": {
+			"name": "Slurpuff",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 686,
+		"fields": {
+			"name": "Inkay",
+			"type_primary": 17,
+			"type_secondary": 14,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 687,
+		"fields": {
+			"name": "Malamar",
+			"type_primary": 17,
+			"type_secondary": 14,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 688,
+		"fields": {
+			"name": "Binacle",
+			"type_primary": 6,
+			"type_secondary": 11,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 689,
+		"fields": {
+			"name": "Barbarcle",
+			"type_primary": 6,
+			"type_secondary": 11,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 690,
+		"fields": {
+			"name": "Skrelp",
+			"type_primary": 4,
+			"type_secondary": 11,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 691,
+		"fields": {
+			"name": "Dragalge",
+			"type_primary": 4,
+			"type_secondary": 16,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 692,
+		"fields": {
+			"name": "Clauncher",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 693,
+		"fields": {
+			"name": "Clawitzer",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 694,
+		"fields": {
+			"name": "Helioptile",
+			"type_primary": 13,
+			"type_secondary": 1,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 695,
+		"fields": {
+			"name": "Heliolisk",
+			"type_primary": 13,
+			"type_secondary": 1,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 696,
+		"fields": {
+			"name": "Tyrunt",
+			"type_primary": 6,
+			"type_secondary": 16,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 697,
+		"fields": {
+			"name": "Tyrantum",
+			"type_primary": 6,
+			"type_secondary": 16,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 698,
+		"fields": {
+			"name": "Amaura",
+			"type_primary": 6,
+			"type_secondary": 15,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 699,
+		"fields": {
+			"name": "Aurorus",
+			"type_primary": 6,
+			"type_secondary": 15,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 700,
+		"fields": {
+			"name": "Sylveon",
+			"type_primary": 4,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 701,
+		"fields": {
+			"name": "Hawlucha",
+			"type_primary": 2,
+			"type_secondary": 3,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 702,
+		"fields": {
+			"name": "Dedenne",
+			"type_primary": 13,
+			"type_secondary": 18,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 703,
+		"fields": {
+			"name": "Carbink",
+			"type_primary": 6,
+			"type_secondary": 18,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 704,
+		"fields": {
+			"name": "Goomy",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 705,
+		"fields": {
+			"name": "Sliggo",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 706,
+		"fields": {
+			"name": "Goodra",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 707,
+		"fields": {
+			"name": "Klefki",
+			"type_primary": 9,
+			"type_secondary": 18,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 708,
+		"fields": {
+			"name": "Phantump",
+			"type_primary": 8,
+			"type_secondary": 12,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 709,
+		"fields": {
+			"name": "Trevenant",
+			"type_primary": 8,
+			"type_secondary": 12,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 710,
+		"fields": {
+			"name": "Pumpkaboo",
+			"type_primary": 8,
+			"type_secondary": 12,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 711,
+		"fields": {
+			"name": "Gourgeist",
+			"type_primary": 8,
+			"type_secondary": 12,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 712,
+		"fields": {
+			"name": "Bergmite",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 713,
+		"fields": {
+			"name": "Avalugg",
+			"type_primary": 15,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 714,
+		"fields": {
+			"name": "Noibat",
+			"type_primary": 3,
+			"type_secondary": 16,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 715,
+		"fields": {
+			"name": "Noivern",
+			"type_primary": 3,
+			"type_secondary": 16,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 716,
+		"fields": {
+			"name": "Xerneas",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 717,
+		"fields": {
+			"name": "Yveltal",
+			"type_primary": 17,
+			"type_secondary": 3,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 718,
+		"fields": {
+			"name": "Zygarde",
+			"type_primary": 16,
+			"type_secondary": 5,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 719,
+		"fields": {
+			"name": "Diancie",
+			"type_primary": 6,
+			"type_secondary": 18,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 720,
+		"fields": {
+			"name": "Hoopa",
+			"type_primary": 14,
+			"type_secondary": 8,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 721,
+		"fields": {
+			"name": "Volcanion",
+			"type_primary": 10,
+			"type_secondary": 11,
+			"region": 6
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 722,
+		"fields": {
+			"name": "Rowlet",
+			"type_primary": 12,
+			"type_secondary": 3,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 723,
+		"fields": {
+			"name": "Dartrix",
+			"type_primary": 12,
+			"type_secondary": 3,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 724,
+		"fields": {
+			"name": "Decidueye",
+			"type_primary": 12,
+			"type_secondary": 8,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 725,
+		"fields": {
+			"name": "Litten",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 726,
+		"fields": {
+			"name": "Torracat",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 727,
+		"fields": {
+			"name": "Inceroar",
+			"type_primary": 10,
+			"type_secondary": 17,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 728,
+		"fields": {
+			"name": "Popplio",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 729,
+		"fields": {
+			"name": "Brionne",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 730,
+		"fields": {
+			"name": "Primarina",
+			"type_primary": 11,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 731,
+		"fields": {
+			"name": "Pikipek",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 732,
+		"fields": {
+			"name": "Trumbeak",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 733,
+		"fields": {
+			"name": "Toucannon",
+			"type_primary": 1,
+			"type_secondary": 3,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 734,
+		"fields": {
+			"name": "Yungoos",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 735,
+		"fields": {
+			"name": "Gumshoos",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 736,
+		"fields": {
+			"name": "Grubbin",
+			"type_primary": 7,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 737,
+		"fields": {
+			"name": "Charjabug",
+			"type_primary": 7,
+			"type_secondary": 13,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 738,
+		"fields": {
+			"name": "Vikavolt",
+			"type_primary": 7,
+			"type_secondary": 13,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 739,
+		"fields": {
+			"name": "Crabrawler",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 740,
+		"fields": {
+			"name": "Crabominable",
+			"type_primary": 2,
+			"type_secondary": 15,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 741,
+		"fields": {
+			"name": "Oricorio",
+			"type_primary": 10,
+			"type_secondary": 3,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 742,
+		"fields": {
+			"name": "Cutiefly",
+			"type_primary": 7,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 743,
+		"fields": {
+			"name": "Ribombee",
+			"type_primary": 7,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 744,
+		"fields": {
+			"name": "Rockruff",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 745,
+		"fields": {
+			"name": "Lycanroc",
+			"type_primary": 6,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 746,
+		"fields": {
+			"name": "Wishiwashi",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 747,
+		"fields": {
+			"name": "Mareanie",
+			"type_primary": 4,
+			"type_secondary": 11,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 748,
+		"fields": {
+			"name": "Toxapex",
+			"type_primary": 4,
+			"type_secondary": 11,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 749,
+		"fields": {
+			"name": "Mudbray",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 750,
+		"fields": {
+			"name": "Mudsdale",
+			"type_primary": 5,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 751,
+		"fields": {
+			"name": "Dewpider",
+			"type_primary": 11,
+			"type_secondary": 7,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 752,
+		"fields": {
+			"name": "Araquanid",
+			"type_primary": 11,
+			"type_secondary": 7,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 753,
+		"fields": {
+			"name": "Fomantis",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 754,
+		"fields": {
+			"name": "Lurantis",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 755,
+		"fields": {
+			"name": "Morelull",
+			"type_primary": 12,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 756,
+		"fields": {
+			"name": "Shiinotic",
+			"type_primary": 12,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 757,
+		"fields": {
+			"name": "Salandit",
+			"type_primary": 4,
+			"type_secondary": 10,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 758,
+		"fields": {
+			"name": "Salazzle",
+			"type_primary": 4,
+			"type_secondary": 10,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 759,
+		"fields": {
+			"name": "Stufful",
+			"type_primary": 1,
+			"type_secondary": 2,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 760,
+		"fields": {
+			"name": "Bewear",
+			"type_primary": 1,
+			"type_secondary": 2,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 761,
+		"fields": {
+			"name": "Bounsweet",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 762,
+		"fields": {
+			"name": "Steenee",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 763,
+		"fields": {
+			"name": "Tsareena",
+			"type_primary": 12,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 764,
+		"fields": {
+			"name": "Comfey",
+			"type_primary": 18,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 765,
+		"fields": {
+			"name": "Oranguru",
+			"type_primary": 1,
+			"type_secondary": 14,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 766,
+		"fields": {
+			"name": "Passimian",
+			"type_primary": 2,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 767,
+		"fields": {
+			"name": "Wimpod",
+			"type_primary": 7,
+			"type_secondary": 11,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 768,
+		"fields": {
+			"name": "Golisopod",
+			"type_primary": 7,
+			"type_secondary": 11,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 769,
+		"fields": {
+			"name": "Sandygast",
+			"type_primary": 8,
+			"type_secondary": 5,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 770,
+		"fields": {
+			"name": "Palossand",
+			"type_primary": 8,
+			"type_secondary": 5,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 771,
+		"fields": {
+			"name": "Pyukumuku",
+			"type_primary": 11,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 772,
+		"fields": {
+			"name": "Type: Null",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 773,
+		"fields": {
+			"name": "Silvally",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 774,
+		"fields": {
+			"name": "Minior",
+			"type_primary": 6,
+			"type_secondary": 3,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 775,
+		"fields": {
+			"name": "Komala",
+			"type_primary": 1,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 776,
+		"fields": {
+			"name": "Turtonator",
+			"type_primary": 10,
+			"type_secondary": 16,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 777,
+		"fields": {
+			"name": "Togedemaru",
+			"type_primary": 13,
+			"type_secondary": 9,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 778,
+		"fields": {
+			"name": "Mimikyu",
+			"type_primary": 8,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 779,
+		"fields": {
+			"name": "Bruxish",
+			"type_primary": 11,
+			"type_secondary": 14,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 780,
+		"fields": {
+			"name": "Drampa",
+			"type_primary": 1,
+			"type_secondary": 16,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 781,
+		"fields": {
+			"name": "Dhelmise",
+			"type_primary": 8,
+			"type_secondary": 12,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 782,
+		"fields": {
+			"name": "Jangmo-o",
+			"type_primary": 16,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 783,
+		"fields": {
+			"name": "Hakamo-o",
+			"type_primary": 16,
+			"type_secondary": 2,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 784,
+		"fields": {
+			"name": "Kommo-o",
+			"type_primary": 16,
+			"type_secondary": 2,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 785,
+		"fields": {
+			"name": "Tapu Koko",
+			"type_primary": 13,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 786,
+		"fields": {
+			"name": "Tapu Lele",
+			"type_primary": 14,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 787,
+		"fields": {
+			"name": "Tapu Bulu",
+			"type_primary": 12,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 788,
+		"fields": {
+			"name": "Tapu Fini",
+			"type_primary": 11,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 789,
+		"fields": {
+			"name": "Cosmog",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 790,
+		"fields": {
+			"name": "Cosmoem",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 791,
+		"fields": {
+			"name": "Solgaleo",
+			"type_primary": 14,
+			"type_secondary": 9,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 792,
+		"fields": {
+			"name": "Lunala",
+			"type_primary": 14,
+			"type_secondary": 8,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 793,
+		"fields": {
+			"name": "Nihilego",
+			"type_primary": 6,
+			"type_secondary": 4,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 794,
+		"fields": {
+			"name": "Buzzwole",
+			"type_primary": 7,
+			"type_secondary": 2,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 795,
+		"fields": {
+			"name": "Pheromosa",
+			"type_primary": 7,
+			"type_secondary": 2,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 796,
+		"fields": {
+			"name": "Xurkitree",
+			"type_primary": 13,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 797,
+		"fields": {
+			"name": "Celesteela",
+			"type_primary": 9,
+			"type_secondary": 3,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 798,
+		"fields": {
+			"name": "Kartana",
+			"type_primary": 12,
+			"type_secondary": 9,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 799,
+		"fields": {
+			"name": "Guzzlord",
+			"type_primary": 17,
+			"type_secondary": 16,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 800,
+		"fields": {
+			"name": "Necrozma",
+			"type_primary": 14,
+			"type_secondary": 0,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 801,
+		"fields": {
+			"name": "Magearna",
+			"type_primary": 9,
+			"type_secondary": 18,
+			"region": 7
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 802,
+		"fields": {
+			"name": "Marshadow",
+			"type_primary": 2,
+			"type_secondary": 8,
+			"region": 7
 		}
 	}
 ]
