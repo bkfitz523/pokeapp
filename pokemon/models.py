@@ -47,6 +47,9 @@ class Type(models.Model):
     id = models.IntegerField(primary_key=True)
     name = models.CharField(max_length=64, choices=TYPE_CHOICES, default=NORMAL)
 
+    def __str__(self):
+        return self.name
+
 
 class Region(models.Model):
     KANTO = 'Kanto'
@@ -70,8 +73,6 @@ class Region(models.Model):
     id = models.IntegerField(primary_key=True)
     name = models.CharField(max_length=64, choices=REGION_CHOICES, default=KANTO)
 
-    # region = models.CharField(max_length=50, choices=REGION_CHOICES, default=KANTO)
-
     def __str__(self):
         return self.name
 
@@ -83,3 +84,15 @@ class Nature(models.Model):
     decreased_stat = models.CharField(max_length=50, blank=True)
     favorite_flavor = models.CharField(max_length=50, blank=True)
     disliked_flavor = models.CharField(max_length=50, blank=True)
+
+
+class Pokemon(models.Model):
+    id = models.IntegerField(primary_key=True)
+    name = models.CharField(max_length=50)
+    type_primary = models.ForeignKey(Type, default=1, related_name='type_primary', on_delete=models.DO_NOTHING)
+    type_secondary = models.ForeignKey(Type, default=0, related_name='type_secondary',
+                                       on_delete=models.DO_NOTHING)
+    region = models.ForeignKey(Region, on_delete=models.DO_NOTHING)
+
+    def __str__(self):
+        return self.name

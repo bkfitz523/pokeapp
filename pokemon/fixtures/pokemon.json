@@ -1,0 +1,38 @@
+[{
+		"model": "pokemon.pokemon",
+		"pk": 1,
+		"fields": {
+			"name": "Bulbasaur",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 2,
+		"fields": {
+			"name": "Ivysaur",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 1
+		}
+	}, {
+		"model": "pokemon.pokemon",
+		"pk": 3,
+		"fields": {
+			"name": "Venusaur",
+			"type_primary": 12,
+			"type_secondary": 4,
+			"region": 1
+		}
+	},{
+		"model": "pokemon.pokemon",
+		"pk": 4,
+		"fields": {
+			"name": "Charmander",
+			"type_primary": 10,
+			"type_secondary": 0,
+			"region": 1
+		}
+	}
+]

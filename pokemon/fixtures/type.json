@@ -1,6 +1,13 @@
 [
   {
     "model": "pokemon.type",
+    "pk": 0,
+    "fields": {
+      "name": ""
+    }
+  },
+  {
+    "model": "pokemon.type",
     "pk": 1,
     "fields": {
       "name": "Normal"
