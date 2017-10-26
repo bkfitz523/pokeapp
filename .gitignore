@@ -190,3 +190,6 @@ pip-selfcheck.json
 
 # .idea
 .idea/*
+
+# Database
+db.sqlite3
