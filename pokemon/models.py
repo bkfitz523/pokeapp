@@ -132,6 +132,7 @@ class Stat(models.Model):
 
     id = models.IntegerField(primary_key=True)
     name = models.CharField(max_length=64, choices=STAT_CHOICES, default=HP)
+    symbol = models.CharField(max_length=64, default='Circle')
 
     def __str__(self):
         return self.name

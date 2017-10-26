@@ -62,7 +62,7 @@ admin.site.register(Move, MoveAdmin)
 
 
 class StatAdmin(admin.ModelAdmin):
-    list_display = ('id', 'name')
+    list_display = ('id', 'name', 'symbol')
     ordering = ('id',)
 
 admin.site.register(Stat, StatAdmin)
