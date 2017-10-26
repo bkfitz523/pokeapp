@@ -29,6 +29,8 @@ class NatureAdmin(admin.ModelAdmin):
         'disliked_flavor'
     )
     ordering = ('id',)
+    list_filter = ('increased_stat', 'decreased_stat',
+                   'favorite_flavor', 'disliked_flavor')
 
 admin.site.register(Nature, NatureAdmin)
 
@@ -57,6 +59,8 @@ class MoveAdmin(admin.ModelAdmin):
         'power_points',
         'accuracy'
     )
+
+    list_filter = ('type', 'category')
 
 admin.site.register(Move, MoveAdmin)
 
