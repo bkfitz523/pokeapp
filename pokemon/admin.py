@@ -41,7 +41,8 @@ class PokemonAdmin(admin.ModelAdmin):
         'name',
         'type_primary',
         'type_secondary',
-        'region'
+        'region',
+        'fully_evolved'
     )
     ordering = ('id',)
 

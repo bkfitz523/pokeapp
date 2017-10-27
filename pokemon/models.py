@@ -95,6 +95,7 @@ class Pokemon(models.Model):
     type_secondary = models.ForeignKey(Type, default=0, related_name='type_secondary',
                                        on_delete=models.DO_NOTHING)
     region = models.ForeignKey(Region, on_delete=models.DO_NOTHING)
+    fully_evolved = models.BooleanField(default=False)
 
     def __str__(self):
         return self.name
@@ -136,5 +137,3 @@ class Stat(models.Model):
 
     def __str__(self):
         return self.name
-
-# TODO: Flavor table
