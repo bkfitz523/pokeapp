@@ -16,3 +16,10 @@ python manage.py runserver
 
 python manage.py createsuperuser --username=john --email=john@thebeatles.com
 
+Index page
+
+create collections\templates directory
+
+update collection views.py with index method
+
+update pokemon urls.py
