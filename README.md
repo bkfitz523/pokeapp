@@ -23,3 +23,19 @@ create collections\templates directory
 update collection views.py with index method
 
 update pokemon urls.py
+
+Creating data
+
+Models.py
+
+create the model
+
+make viewable in admin
+
+In Admin.py, create [table]Admin
+Link tables through register method
+
+
+python manage.py makemigrations
+
+Apply migration

@@ -1,0 +1,135 @@
+[
+  {
+    "model": "collection.type",
+    "pk": 0,
+    "fields": {
+      "name": ""
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 1,
+    "fields": {
+      "name": "Normal"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 2,
+    "fields": {
+      "name": "Fighting"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 3,
+    "fields": {
+      "name": "Flying"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 4,
+    "fields": {
+      "name": "Poison"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 5,
+    "fields": {
+      "name": "Ground"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 6,
+    "fields": {
+      "name": "Rock"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 7,
+    "fields": {
+      "name": "Bug"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 8,
+    "fields": {
+      "name": "Ghost"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 9,
+    "fields": {
+      "name": "Steel"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 10,
+    "fields": {
+      "name": "Fire"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 11,
+    "fields": {
+      "name": "Water"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 12,
+    "fields": {
+      "name": "Grass"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 13,
+    "fields": {
+      "name": "Electric"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 14,
+    "fields": {
+      "name": "Psychic"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 15,
+    "fields": {
+      "name": "Ice"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 16,
+    "fields": {
+      "name": "Dragon"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 17,
+    "fields": {
+      "name": "Dark"
+    }
+  },
+  {
+    "model": "collection.type",
+    "pk": 18,
+    "fields": {
+      "name": "Fairy"
+    }
+  }
+]
