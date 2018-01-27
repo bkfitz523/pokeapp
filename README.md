@@ -10,3 +10,9 @@ C:\Program Files\Miniconda3\envs\pokeapp\Scripts\django-admin.py
 Run below command from pokeapp dir
 python "C:\Program Files\Miniconda3\envs\pokeapp\Scripts\django-admin.py" startproject pokemon .
 
+python manage.py migrate
+
+python manage.py runserver
+
+python manage.py createsuperuser --username=john --email=john@thebeatles.com
+
