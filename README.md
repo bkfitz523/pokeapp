@@ -39,3 +39,8 @@ Link tables through register method
 python manage.py makemigrations
 
 Apply migration
+
+Making templates
+{% load staticfiles %}
+<link rel="stylesheet" href="{% static 'css/style.css' %}" />
+Are added to load CSS to index.html page

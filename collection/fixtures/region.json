@@ -1,0 +1,51 @@
+[
+  {
+    "model": "collection.region",
+    "pk": 1,
+    "fields": {
+      "name": "Kanto"
+    }
+  },
+  {
+    "model": "collection.region",
+    "pk": 2,
+    "fields": {
+      "name": "Johto"
+    }
+  },
+  {
+    "model": "collection.region",
+    "pk": 3,
+    "fields": {
+      "name": "Hoenn"
+    }
+  },
+  {
+    "model": "collection.region",
+    "pk": 4,
+    "fields": {
+      "name": "Sinnoh"
+    }
+  },
+  {
+    "model": "collection.region",
+    "pk": 5,
+    "fields": {
+      "name": "Unova"
+    }
+  },
+  {
+    "model": "collection.region",
+    "pk": 6,
+    "fields": {
+      "name": "Kalos"
+    }
+  },
+  {
+    "model": "collection.region",
+    "pk": 7,
+    "fields": {
+      "name": "Alola"
+    }
+  }
+]
