@@ -20,6 +20,7 @@ from collection import views
 
 urlpatterns = [
     url(r'^$', views.index, name='home'),
+    url(r'^type/(?P<id>[-\w]+)/$', views.type_detail, name='type_detail'),
     url(r'^admin/', admin.site.urls)
     # url(r'^$', views.index, name='home'),
 ]

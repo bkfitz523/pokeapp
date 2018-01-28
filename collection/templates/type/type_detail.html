@@ -1,0 +1,18 @@
+{% load staticfiles %}
+<!doctype html>
+<html>
+    <head>
+        <title>My Hello Web App Project</title>
+        <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p>I am a basic website.</p>
+        <table>
+            <tr><th>Number</th><th>Type</th></tr>
+            {% for type in type %}
+            <tr><td>{{type.id}}</td><td>{{type.name}}</td></tr>
+            {% endfor %}
+        </table>
+    </body>
+</html>

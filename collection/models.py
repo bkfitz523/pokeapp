@@ -51,3 +51,29 @@ class Type(models.Model):
 
     def __str__(self):
         return self.name
+
+
+class Region(models.Model):
+    KANTO = 'Kanto'
+    JOHTO = 'Johto'
+    HOENN = 'Hoenn'
+    SINNOH = 'Sinnoh'
+    UNOVA = 'Unova'
+    KALOS = 'Kalos'
+    ALOLA = 'Alola'
+
+    REGION_CHOICES = (
+        (KANTO, 'Kanto'),
+        (JOHTO, 'Johto'),
+        (HOENN, 'Hoenn'),
+        (SINNOH, 'Sinnoh'),
+        (UNOVA, 'Unova'),
+        (KALOS, 'Kalos'),
+        (ALOLA, 'Alola')
+    )
+
+    id = models.IntegerField(primary_key=True)
+    name = models.CharField(max_length=31, choices=REGION_CHOICES, default=KANTO)
+
+    def __str__(self):
+        return self.name
