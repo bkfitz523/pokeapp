@@ -44,3 +44,9 @@ Making templates
 {% load staticfiles %}
 <link rel="stylesheet" href="{% static 'css/style.css' %}" />
 Are added to load CSS to index.html page
+
+To link to any static file from a template, use the {% static 'FILELOCATION/FILENAME.TYPE' %} syntax, such as {% static 'js/script.js' %} or {% static 'images/logo.jpg' %}. Keep in mind you still need the IMG HTML tag when displaying images, for example: <img src="{% static 'images/logo.jpg' %}" alt=""/>
+
+Displaying dynamic data
+https://hellowebbooks.com/tutorial/dynamic-templates/
+

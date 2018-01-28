@@ -8,5 +8,11 @@
     <body>
         <h1>Hello World!</h1>
         <p>I am a basic website.</p>
+        <table>
+            <tr><th>Number</th><th>Type</th></tr>
+            {% for type in type %}
+            <tr><td>{{type.id}}</td><td>{{type.name}}</td></tr>
+            {% endfor %}
+        </table>
     </body>
 </html>
