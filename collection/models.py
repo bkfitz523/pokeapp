@@ -1,6 +1,5 @@
 from django.db import models
 
-# Create your models here.
 
 
 class Type(models.Model):
@@ -74,6 +73,32 @@ class Region(models.Model):
 
     id = models.IntegerField(primary_key=True)
     name = models.CharField(max_length=31, choices=REGION_CHOICES, default=KANTO)
+
+    def __str__(self):
+        return self.name
+
+
+class Stat(models.Model):
+
+    HP = 'HP'
+    ATTACK = 'Attack'
+    DEFENSE = 'Defense'
+    SPECIAL_ATTACK = 'Special Attack'
+    SPECIAL_DEFENSE = 'Special Defense'
+    SPEED = 'Speed'
+
+    STAT_CHOICES = (
+        (HP, 'HP'),
+        (ATTACK, 'Attack'),
+        (DEFENSE, 'Defense'),
+        (SPECIAL_ATTACK, 'Special Attack'),
+        (SPECIAL_DEFENSE, 'Special Defense'),
+        (SPEED, 'Speed')
+    )
+
+    id = models.IntegerField(primary_key=True)
+    name = models.CharField(max_length=31)
+    symbol = models.CharField(max_length=31)
 
     def __str__(self):
         return self.name
